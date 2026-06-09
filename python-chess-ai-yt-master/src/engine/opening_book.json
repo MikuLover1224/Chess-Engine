@@ -1,0 +1,6522 @@
+{
+  "username": "taibbbbbbb",
+  "built": "2026-05-14T19:02:41.814Z",
+  "settings": {
+    "max_months": 6,
+    "min_accuracy": 80,
+    "min_move_freq": 2,
+    "max_depth": 10
+  },
+  "white": {
+    "d4": {
+      "_count": 329,
+      "_wins": 167,
+      "e5": {
+        "_count": 39,
+        "_wins": 22,
+        "d5": {
+          "_count": 33,
+          "_wins": 19,
+          "Nf6": {
+            "_count": 8,
+            "_wins": 6,
+            "Nc3": {
+              "_count": 8,
+              "_wins": 6,
+              "Bc5": {
+                "_count": 4,
+                "_wins": 3,
+                "e4": {
+                  "_count": 4,
+                  "_wins": 3,
+                  "d6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              },
+              "c6": {
+                "_count": 2,
+                "_wins": 2,
+                "e4": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              }
+            }
+          },
+          "Bc5": {
+            "_count": 7,
+            "_wins": 4,
+            "e4": {
+              "_count": 5,
+              "_wins": 2,
+              "d6": {
+                "_count": 3,
+                "_wins": 2,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              },
+              "Nf6": {
+                "_count": 2,
+                "_wins": 0,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "O-O": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 2,
+              "_wins": 2
+            }
+          },
+          "c6": {
+            "_count": 5,
+            "_wins": 2,
+            "e4": {
+              "_count": 5,
+              "_wins": 2,
+              "cxd5": {
+                "_count": 3,
+                "_wins": 2,
+                "exd5": {
+                  "_count": 3,
+                  "_wins": 2,
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            }
+          },
+          "d6": {
+            "_count": 10,
+            "_wins": 6,
+            "e4": {
+              "_count": 10,
+              "_wins": 6,
+              "Nf6": {
+                "_count": 8,
+                "_wins": 5,
+                "Nc3": {
+                  "_count": 6,
+                  "_wins": 4
+                }
+              }
+            }
+          },
+          "f6": {
+            "_count": 2,
+            "_wins": 0,
+            "e4": {
+              "_count": 2,
+              "_wins": 0
+            }
+          }
+        },
+        "Nc3": {
+          "_count": 2,
+          "_wins": 0,
+          "exd4": {
+            "_count": 2,
+            "_wins": 0,
+            "Qxd4": {
+              "_count": 2,
+              "_wins": 0
+            }
+          }
+        },
+        "dxe5": {
+          "_count": 2,
+          "_wins": 2
+        },
+        "Nf3": {
+          "_count": 2,
+          "_wins": 1
+        }
+      },
+      "e6": {
+        "_count": 33,
+        "_wins": 13,
+        "e4": {
+          "_count": 31,
+          "_wins": 13,
+          "b6": {
+            "_count": 3,
+            "_wins": 1,
+            "d5": {
+              "_count": 3,
+              "_wins": 1,
+              "Bb7": {
+                "_count": 2,
+                "_wins": 1,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          },
+          "c6": {
+            "_count": 3,
+            "_wins": 2
+          },
+          "d6": {
+            "_count": 5,
+            "_wins": 2,
+            "d5": {
+              "_count": 4,
+              "_wins": 1,
+              "e5": {
+                "_count": 2,
+                "_wins": 0
+              },
+              "exd5": {
+                "_count": 2,
+                "_wins": 1,
+                "exd5": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          },
+          "Nc6": {
+            "_count": 3,
+            "_wins": 0,
+            "d5": {
+              "_count": 2,
+              "_wins": 0,
+              "exd5": {
+                "_count": 2,
+                "_wins": 0,
+                "exd5": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            }
+          },
+          "d5": {
+            "_count": 9,
+            "_wins": 3,
+            "exd5": {
+              "_count": 5,
+              "_wins": 3,
+              "Qxd5": {
+                "_count": 3,
+                "_wins": 2,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Bb4": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              },
+              "exd5": {
+                "_count": 2,
+                "_wins": 1
+              }
+            },
+            "e5": {
+              "_count": 4,
+              "_wins": 0,
+              "c5": {
+                "_count": 2,
+                "_wins": 0,
+                "c4": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            }
+          },
+          "c5": {
+            "_count": 2,
+            "_wins": 2,
+            "d5": {
+              "_count": 2,
+              "_wins": 2,
+              "e5": {
+                "_count": 2,
+                "_wins": 2
+              }
+            }
+          }
+        },
+        "Nc3": {
+          "_count": 2,
+          "_wins": 0
+        }
+      },
+      "d5": {
+        "_count": 152,
+        "_wins": 76,
+        "Nf3": {
+          "_count": 4,
+          "_wins": 2,
+          "Nf6": {
+            "_count": 2,
+            "_wins": 1
+          }
+        },
+        "e4": {
+          "_count": 87,
+          "_wins": 45,
+          "dxe4": {
+            "_count": 58,
+            "_wins": 26,
+            "d5": {
+              "_count": 9,
+              "_wins": 4,
+              "Nf6": {
+                "_count": 7,
+                "_wins": 3,
+                "Nc3": {
+                  "_count": 6,
+                  "_wins": 3,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "Nc3": {
+              "_count": 49,
+              "_wins": 22,
+              "Nf6": {
+                "_count": 23,
+                "_wins": 11,
+                "Bf4": {
+                  "_count": 3,
+                  "_wins": 1
+                },
+                "f3": {
+                  "_count": 8,
+                  "_wins": 5,
+                  "exf3": {
+                    "_count": 4,
+                    "_wins": 3,
+                    "Nxf3": {
+                      "_count": 3,
+                      "_wins": 3,
+                      "Bg4": {}
+                    }
+                  },
+                  "Bf5": {
+                    "_count": 3,
+                    "_wins": 2
+                  }
+                },
+                "Bc4": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Bf5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "d5": {
+                  "_count": 9,
+                  "_wins": 4,
+                  "e6": {
+                    "_count": 5,
+                    "_wins": 1,
+                    "Bc4": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "exd5": {}
+                    }
+                  },
+                  "Bf5": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "f3": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "exf3": {}
+                    }
+                  }
+                }
+              },
+              "Bf5": {
+                "_count": 10,
+                "_wins": 4,
+                "f3": {
+                  "_count": 6,
+                  "_wins": 3,
+                  "exf3": {
+                    "_count": 6,
+                    "_wins": 3,
+                    "Qxf3": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "e6": {}
+                    },
+                    "Nxf3": {
+                      "_count": 4,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  }
+                },
+                "d5": {
+                  "_count": 4,
+                  "_wins": 1,
+                  "Nf6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "f3": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "exf3": {}
+                    }
+                  }
+                }
+              },
+              "f5": {
+                "_count": 4,
+                "_wins": 3,
+                "f3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "exf3": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Nxf3": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  }
+                }
+              },
+              "e5": {
+                "_count": 2,
+                "_wins": 1
+              },
+              "Nc6": {
+                "_count": 6,
+                "_wins": 2,
+                "d5": {
+                  "_count": 5,
+                  "_wins": 2,
+                  "Ne5": {
+                    "_count": 3,
+                    "_wins": 2,
+                    "Nxe4": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Bf5": {}
+                    }
+                  },
+                  "Nb4": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              },
+              "e6": {
+                "_count": 2,
+                "_wins": 0,
+                "Nxe4": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            }
+          },
+          "Nc6": {
+            "_count": 7,
+            "_wins": 6,
+            "Bb5": {
+              "_count": 3,
+              "_wins": 3
+            },
+            "e5": {
+              "_count": 2,
+              "_wins": 2
+            }
+          },
+          "e6": {
+            "_count": 8,
+            "_wins": 3,
+            "Nc3": {
+              "_count": 3,
+              "_wins": 1,
+              "Bb4": {
+                "_count": 2,
+                "_wins": 0
+              }
+            },
+            "exd5": {
+              "_count": 3,
+              "_wins": 0,
+              "Qxd5": {
+                "_count": 2,
+                "_wins": 0,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            },
+            "e5": {
+              "_count": 2,
+              "_wins": 2
+            }
+          },
+          "c5": {
+            "_count": 2,
+            "_wins": 1,
+            "dxc5": {
+              "_count": 2,
+              "_wins": 1
+            }
+          },
+          "Nf6": {
+            "_count": 6,
+            "_wins": 5,
+            "e5": {
+              "_count": 6,
+              "_wins": 5,
+              "Nfd7": {
+                "_count": 3,
+                "_wins": 3,
+                "c4": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              },
+              "Ne4": {
+                "_count": 3,
+                "_wins": 2,
+                "f3": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              }
+            }
+          },
+          "c6": {
+            "_count": 2,
+            "_wins": 0
+          }
+        },
+        "Bf4": {
+          "_count": 12,
+          "_wins": 4,
+          "e6": {
+            "_count": 3,
+            "_wins": 1,
+            "Nc3": {
+              "_count": 3,
+              "_wins": 1,
+              "Bd6": {
+                "_count": 2,
+                "_wins": 0,
+                "Bxd6": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "Qxd6": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              }
+            }
+          },
+          "Nf6": {
+            "_count": 4,
+            "_wins": 1,
+            "Nc3": {
+              "_count": 4,
+              "_wins": 1
+            }
+          },
+          "Nc6": {
+            "_count": 3,
+            "_wins": 2,
+            "Nc3": {
+              "_count": 3,
+              "_wins": 2
+            }
+          }
+        },
+        "Nc3": {
+          "_count": 45,
+          "_wins": 23,
+          "c6": {
+            "_count": 4,
+            "_wins": 2,
+            "Bf4": {
+              "_count": 2,
+              "_wins": 0,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 0,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            },
+            "e4": {
+              "_count": 2,
+              "_wins": 2
+            }
+          },
+          "Nf6": {
+            "_count": 19,
+            "_wins": 8,
+            "Bf4": {
+              "_count": 15,
+              "_wins": 6,
+              "Bf5": {
+                "_count": 7,
+                "_wins": 3,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 1
+                },
+                "e3": {
+                  "_count": 4,
+                  "_wins": 2,
+                  "e6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Bd3": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "Bxd3": {}
+                    }
+                  }
+                }
+              },
+              "Nc6": {
+                "_count": 6,
+                "_wins": 2,
+                "Nb5": {
+                  "_count": 3,
+                  "_wins": 2,
+                  "e5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "e3": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              }
+            },
+            "e4": {
+              "_count": 2,
+              "_wins": 2,
+              "dxe4": {
+                "_count": 2,
+                "_wins": 2,
+                "f3": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 2,
+              "_wins": 0,
+              "Nc6": {
+                "_count": 2,
+                "_wins": 0
+              }
+            }
+          },
+          "e6": {
+            "_count": 12,
+            "_wins": 7,
+            "Bf4": {
+              "_count": 9,
+              "_wins": 4,
+              "Bb4": {
+                "_count": 3,
+                "_wins": 1,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              },
+              "Nf6": {
+                "_count": 2,
+                "_wins": 1,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              },
+              "Bd6": {
+                "_count": 2,
+                "_wins": 2,
+                "Bxd6": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "Qxd6": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              }
+            },
+            "e4": {
+              "_count": 3,
+              "_wins": 3,
+              "c6": {
+                "_count": 2,
+                "_wins": 2
+              }
+            }
+          },
+          "Nc6": {
+            "_count": 7,
+            "_wins": 5,
+            "Bf4": {
+              "_count": 5,
+              "_wins": 4,
+              "e6": {
+                "_count": 2,
+                "_wins": 2
+              }
+            },
+            "e4": {
+              "_count": 2,
+              "_wins": 1
+            }
+          },
+          "Bf5": {
+            "_count": 2,
+            "_wins": 1
+          }
+        },
+        "e3": {
+          "_count": 2,
+          "_wins": 1
+        }
+      },
+      "Nc6": {
+        "_count": 5,
+        "_wins": 2,
+        "Nc3": {
+          "_count": 2,
+          "_wins": 1
+        },
+        "d5": {
+          "_count": 2,
+          "_wins": 1
+        }
+      },
+      "c5": {
+        "_count": 14,
+        "_wins": 10,
+        "d5": {
+          "_count": 11,
+          "_wins": 9,
+          "e6": {
+            "_count": 4,
+            "_wins": 3,
+            "e4": {
+              "_count": 3,
+              "_wins": 2
+            }
+          },
+          "d6": {
+            "_count": 4,
+            "_wins": 4,
+            "e4": {
+              "_count": 3,
+              "_wins": 3
+            }
+          }
+        }
+      },
+      "g6": {
+        "_count": 15,
+        "_wins": 7,
+        "e4": {
+          "_count": 13,
+          "_wins": 7,
+          "Bg7": {
+            "_count": 12,
+            "_wins": 6,
+            "e5": {
+              "_count": 12,
+              "_wins": 6,
+              "d6": {
+                "_count": 4,
+                "_wins": 1,
+                "Nf3": {
+                  "_count": 4,
+                  "_wins": 1,
+                  "dxe5": {
+                    "_count": 4,
+                    "_wins": 1,
+                    "Bc4": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  }
+                }
+              },
+              "e6": {
+                "_count": 6,
+                "_wins": 5,
+                "Nf3": {
+                  "_count": 6,
+                  "_wins": 5,
+                  "d6": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Bc4": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  },
+                  "Ne7": {
+                    "_count": 4,
+                    "_wins": 3,
+                    "Bc4": {
+                      "_count": 4,
+                      "_wins": 3,
+                      "b6": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "b6": {
+        "_count": 15,
+        "_wins": 7,
+        "e4": {
+          "_count": 15,
+          "_wins": 7,
+          "Bb7": {
+            "_count": 14,
+            "_wins": 7,
+            "d5": {
+              "_count": 14,
+              "_wins": 7,
+              "e6": {
+                "_count": 6,
+                "_wins": 2,
+                "Nc3": {
+                  "_count": 6,
+                  "_wins": 2,
+                  "exd5": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "exd5": {
+                      "_count": 2,
+                      "_wins": 2
+                    },
+                    "Nxd5": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  }
+                }
+              },
+              "d6": {
+                "_count": 2,
+                "_wins": 1
+              },
+              "Nf6": {
+                "_count": 2,
+                "_wins": 0,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              },
+              "g6": {
+                "_count": 3,
+                "_wins": 3,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "Bg7": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "c6": {
+        "_count": 11,
+        "_wins": 6,
+        "e4": {
+          "_count": 10,
+          "_wins": 6,
+          "d5": {
+            "_count": 8,
+            "_wins": 4,
+            "e5": {
+              "_count": 6,
+              "_wins": 3,
+              "Bf5": {
+                "_count": 4,
+                "_wins": 2,
+                "c4": {
+                  "_count": 3,
+                  "_wins": 2,
+                  "e6": {
+                    "_count": 3,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 2
+                    }
+                  }
+                }
+              }
+            },
+            "exd5": {
+              "_count": 2,
+              "_wins": 1,
+              "cxd5": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          }
+        }
+      },
+      "Nf6": {
+        "_count": 19,
+        "_wins": 11,
+        "Nc3": {
+          "_count": 7,
+          "_wins": 4,
+          "g6": {
+            "_count": 3,
+            "_wins": 2
+          },
+          "e6": {
+            "_count": 2,
+            "_wins": 0
+          }
+        },
+        "d5": {
+          "_count": 11,
+          "_wins": 6,
+          "e6": {
+            "_count": 3,
+            "_wins": 2,
+            "Nc3": {
+              "_count": 3,
+              "_wins": 2,
+              "exd5": {
+                "_count": 2,
+                "_wins": 1,
+                "Nxd5": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          },
+          "g6": {
+            "_count": 2,
+            "_wins": 0,
+            "Nc3": {
+              "_count": 2,
+              "_wins": 0
+            }
+          },
+          "e5": {
+            "_count": 3,
+            "_wins": 2,
+            "Nc3": {
+              "_count": 3,
+              "_wins": 2,
+              "Bb4": {
+                "_count": 3,
+                "_wins": 2
+              }
+            }
+          },
+          "d6": {
+            "_count": 2,
+            "_wins": 2,
+            "Nc3": {
+              "_count": 2,
+              "_wins": 2,
+              "g6": {
+                "_count": 2,
+                "_wins": 2,
+                "e4": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "Bg7": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "f5": {
+        "_count": 6,
+        "_wins": 4,
+        "d5": {
+          "_count": 3,
+          "_wins": 3,
+          "Nf6": {
+            "_count": 2,
+            "_wins": 2,
+            "Nc3": {
+              "_count": 2,
+              "_wins": 2
+            }
+          }
+        },
+        "Nc3": {
+          "_count": 3,
+          "_wins": 1,
+          "Nf6": {
+            "_count": 3,
+            "_wins": 1,
+            "Nf3": {
+              "_count": 2,
+              "_wins": 1
+            }
+          }
+        }
+      },
+      "d6": {
+        "_count": 13,
+        "_wins": 6,
+        "e4": {
+          "_count": 12,
+          "_wins": 5,
+          "f6": {
+            "_count": 5,
+            "_wins": 2,
+            "Nf3": {
+              "_count": 3,
+              "_wins": 1,
+              "e5": {
+                "_count": 3,
+                "_wins": 1
+              }
+            }
+          },
+          "Nf6": {
+            "_count": 3,
+            "_wins": 1,
+            "Nc3": {
+              "_count": 2,
+              "_wins": 1
+            }
+          },
+          "g6": {
+            "_count": 2,
+            "_wins": 0
+          }
+        }
+      }
+    },
+    "e4": {
+      "_count": 962,
+      "_wins": 484,
+      "e5": {
+        "_count": 453,
+        "_wins": 232,
+        "Bc4": {
+          "_count": 21,
+          "_wins": 14,
+          "Nf6": {
+            "_count": 4,
+            "_wins": 3,
+            "Nf3": {
+              "_count": 3,
+              "_wins": 3,
+              "Nxe4": {
+                "_count": 2,
+                "_wins": 2,
+                "Nxe5": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              }
+            }
+          },
+          "Bc5": {
+            "_count": 4,
+            "_wins": 3,
+            "Nf3": {
+              "_count": 3,
+              "_wins": 3,
+              "Nc6": {
+                "_count": 2,
+                "_wins": 2
+              }
+            }
+          },
+          "d6": {
+            "_count": 5,
+            "_wins": 2,
+            "Nf3": {
+              "_count": 4,
+              "_wins": 2,
+              "h6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          },
+          "Nc6": {
+            "_count": 5,
+            "_wins": 3,
+            "Nf3": {
+              "_count": 3,
+              "_wins": 2,
+              "Nf6": {
+                "_count": 2,
+                "_wins": 1,
+                "Ng5": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 17,
+          "_wins": 10,
+          "Nc6": {
+            "_count": 12,
+            "_wins": 8,
+            "Bc4": {
+              "_count": 6,
+              "_wins": 4,
+              "Bc5": {
+                "_count": 3,
+                "_wins": 2,
+                "d3": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              },
+              "h6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            },
+            "d4": {
+              "_count": 6,
+              "_wins": 4,
+              "exd4": {
+                "_count": 2,
+                "_wins": 1
+              },
+              "Nf6": {
+                "_count": 2,
+                "_wins": 1,
+                "d5": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          },
+          "d6": {
+            "_count": 4,
+            "_wins": 1,
+            "Bc4": {
+              "_count": 2,
+              "_wins": 1
+            },
+            "d4": {
+              "_count": 2,
+              "_wins": 0
+            }
+          }
+        },
+        "Nc3": {
+          "_count": 2,
+          "_wins": 1
+        },
+        "d4": {
+          "_count": 407,
+          "_wins": 204,
+          "exd4": {
+            "_count": 223,
+            "_wins": 124,
+            "c3": {
+              "_count": 216,
+              "_wins": 120,
+              "dxc3": {
+                "_count": 146,
+                "_wins": 88,
+                "Bc4": {
+                  "_count": 142,
+                  "_wins": 86,
+                  "Qe7": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nxc3": {
+                      "_count": 3,
+                      "_wins": 1
+                    }
+                  },
+                  "d6": {
+                    "_count": 18,
+                    "_wins": 6,
+                    "Nf3": {
+                      "_count": 9,
+                      "_wins": 2,
+                      "h6": {}
+                    },
+                    "Qf3": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "Nf6": {}
+                    },
+                    "Nxc3": {
+                      "_count": 7,
+                      "_wins": 4,
+                      "Be6": {},
+                      "Nc6": {}
+                    }
+                  },
+                  "cxb2": {
+                    "_count": 71,
+                    "_wins": 46,
+                    "Bxb2": {
+                      "_count": 71,
+                      "_wins": 46,
+                      "Nc6": {},
+                      "d6": {},
+                      "f6": {},
+                      "Nf6": {},
+                      "Bb4+": {},
+                      "Qg5": {},
+                      "Qe7": {},
+                      "Bc5": {}
+                    }
+                  },
+                  "Nc6": {
+                    "_count": 10,
+                    "_wins": 5,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 1
+                    },
+                    "Nxc3": {
+                      "_count": 7,
+                      "_wins": 4,
+                      "Bb4": {}
+                    }
+                  },
+                  "c2": {
+                    "_count": 5,
+                    "_wins": 5,
+                    "Qf3": {
+                      "_count": 3,
+                      "_wins": 3
+                    },
+                    "Qxc2": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  },
+                  "Nf6": {
+                    "_count": 13,
+                    "_wins": 10,
+                    "e5": {
+                      "_count": 12,
+                      "_wins": 10,
+                      "cxb2": {},
+                      "Ng8": {},
+                      "d5": {},
+                      "Ne4": {}
+                    }
+                  },
+                  "Qf6": {
+                    "_count": 6,
+                    "_wins": 4,
+                    "Nxc3": {
+                      "_count": 6,
+                      "_wins": 4,
+                      "Bc5": {},
+                      "Bb4": {}
+                    }
+                  },
+                  "Bb4": {
+                    "_count": 6,
+                    "_wins": 4,
+                    "Bxf7+": {
+                      "_count": 6,
+                      "_wins": 4,
+                      "Kxf7": {},
+                      "Kf8": {}
+                    }
+                  },
+                  "Bc5": {
+                    "_count": 3,
+                    "_wins": 3,
+                    "Bxf7+": {
+                      "_count": 3,
+                      "_wins": 3,
+                      "Kxf7": {}
+                    }
+                  },
+                  "Be7": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                },
+                "Nxc3": {
+                  "_count": 4,
+                  "_wins": 2
+                }
+              },
+              "Nc6": {
+                "_count": 38,
+                "_wins": 16,
+                "Bc4": {
+                  "_count": 37,
+                  "_wins": 16,
+                  "Nf6": {
+                    "_count": 6,
+                    "_wins": 1,
+                    "e5": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Nxe5": {}
+                    }
+                  },
+                  "dxc3": {
+                    "_count": 24,
+                    "_wins": 12,
+                    "Nxc3": {
+                      "_count": 17,
+                      "_wins": 7,
+                      "Bc5": {},
+                      "Bb4": {},
+                      "Qe7": {},
+                      "Nf6": {},
+                      "d6": {}
+                    },
+                    "Nf3": {
+                      "_count": 6,
+                      "_wins": 4,
+                      "cxb2": {}
+                    }
+                  },
+                  "Bc5": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              },
+              "d6": {
+                "_count": 5,
+                "_wins": 2,
+                "Bc4": {
+                  "_count": 5,
+                  "_wins": 2,
+                  "dxc3": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nxc3": {
+                      "_count": 3,
+                      "_wins": 1
+                    }
+                  },
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "dxc3": {}
+                    }
+                  }
+                }
+              },
+              "Nf6": {
+                "_count": 10,
+                "_wins": 7,
+                "Bc4": {
+                  "_count": 8,
+                  "_wins": 5,
+                  "Nxe4": {
+                    "_count": 3,
+                    "_wins": 2,
+                    "Qe2": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  },
+                  "dxc3": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "e5": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "Nd5": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              },
+              "d5": {
+                "_count": 6,
+                "_wins": 1,
+                "exd5": {
+                  "_count": 3,
+                  "_wins": 0,
+                  "Qxd5": {
+                    "_count": 3,
+                    "_wins": 0,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 0
+                    }
+                  }
+                },
+                "Bc4": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "dxc4": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "cxd4": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              },
+              "c5": {
+                "_count": 4,
+                "_wins": 3,
+                "Bc4": {
+                  "_count": 4,
+                  "_wins": 3
+                }
+              },
+              "d3": {
+                "_count": 2,
+                "_wins": 1,
+                "Bxd3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              },
+              "Be7": {
+                "_count": 2,
+                "_wins": 1,
+                "Bc4": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "d6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              },
+              "g6": {
+                "_count": 2,
+                "_wins": 1,
+                "Bc4": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Bg7": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "Bc4": {
+              "_count": 7,
+              "_wins": 4,
+              "Nc6": {
+                "_count": 3,
+                "_wins": 1,
+                "c3": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Nf6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "e5": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Nxe5": {}
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Bd6": {
+            "_count": 3,
+            "_wins": 3
+          },
+          "Nc6": {
+            "_count": 83,
+            "_wins": 31,
+            "Bc4": {
+              "_count": 5,
+              "_wins": 1,
+              "exd4": {
+                "_count": 4,
+                "_wins": 1,
+                "c3": {
+                  "_count": 4,
+                  "_wins": 1,
+                  "dxc3": {
+                    "_count": 4,
+                    "_wins": 1,
+                    "Qf3": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  }
+                }
+              }
+            },
+            "d5": {
+              "_count": 50,
+              "_wins": 19,
+              "Nd4": {
+                "_count": 10,
+                "_wins": 3,
+                "f4": {
+                  "_count": 3,
+                  "_wins": 0
+                },
+                "c3": {
+                  "_count": 2,
+                  "_wins": 1
+                },
+                "Nf3": {
+                  "_count": 4,
+                  "_wins": 2,
+                  "Nxf3+": {
+                    "_count": 3,
+                    "_wins": 2,
+                    "Qxf3": {
+                      "_count": 3,
+                      "_wins": 2
+                    }
+                  }
+                }
+              },
+              "Nb4": {
+                "_count": 4,
+                "_wins": 3,
+                "Nf3": {
+                  "_count": 3,
+                  "_wins": 2
+                }
+              },
+              "Nce7": {
+                "_count": 27,
+                "_wins": 10,
+                "f4": {
+                  "_count": 5,
+                  "_wins": 3
+                },
+                "Nf3": {
+                  "_count": 19,
+                  "_wins": 7,
+                  "d6": {
+                    "_count": 10,
+                    "_wins": 5,
+                    "Be2": {
+                      "_count": 3,
+                      "_wins": 3
+                    },
+                    "c4": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Bg4": {}
+                    },
+                    "Bd3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "c6": {}
+                    }
+                  },
+                  "c6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nxe5": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "cxd5": {}
+                    }
+                  },
+                  "Nf6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nxe5": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  },
+                  "Ng6": {
+                    "_count": 3,
+                    "_wins": 0,
+                    "Be2": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  }
+                },
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              },
+              "Nb8": {
+                "_count": 7,
+                "_wins": 1,
+                "f4": {
+                  "_count": 2,
+                  "_wins": 0
+                },
+                "Nf3": {
+                  "_count": 4,
+                  "_wins": 1,
+                  "d6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Bd3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 13,
+              "_wins": 6,
+              "exd4": {
+                "_count": 9,
+                "_wins": 4,
+                "c3": {
+                  "_count": 5,
+                  "_wins": 2,
+                  "dxc3": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "Bc4": {
+                      "_count": 4,
+                      "_wins": 2
+                    }
+                  }
+                },
+                "Bc4": {
+                  "_count": 3,
+                  "_wins": 1
+                }
+              }
+            },
+            "dxe5": {
+              "_count": 3,
+              "_wins": 1,
+              "Nxe5": {
+                "_count": 3,
+                "_wins": 1,
+                "f4": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            },
+            "c3": {
+              "_count": 12,
+              "_wins": 4,
+              "exd4": {
+                "_count": 7,
+                "_wins": 2,
+                "cxd4": {
+                  "_count": 7,
+                  "_wins": 2,
+                  "Bb4+": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nc3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  },
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 0,
+                    "d5": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  },
+                  "d5": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              },
+              "d5": {
+                "_count": 2,
+                "_wins": 0
+              }
+            }
+          },
+          "d6": {
+            "_count": 33,
+            "_wins": 17,
+            "dxe5": {
+              "_count": 22,
+              "_wins": 10,
+              "dxe5": {
+                "_count": 12,
+                "_wins": 6,
+                "Qxd8+": {
+                  "_count": 12,
+                  "_wins": 6,
+                  "Kxd8": {
+                    "_count": 11,
+                    "_wins": 5,
+                    "Nf3": {
+                      "_count": 11,
+                      "_wins": 5,
+                      "f6": {}
+                    }
+                  }
+                }
+              },
+              "Nc6": {
+                "_count": 6,
+                "_wins": 3,
+                "Bb5": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Bd7": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "exd6": {
+                  "_count": 4,
+                  "_wins": 2,
+                  "Bxd6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              },
+              "Qe7": {
+                "_count": 2,
+                "_wins": 1
+              }
+            },
+            "Bc4": {
+              "_count": 3,
+              "_wins": 2
+            },
+            "Nf3": {
+              "_count": 2,
+              "_wins": 2
+            },
+            "c3": {
+              "_count": 6,
+              "_wins": 3
+            }
+          },
+          "Qf6": {
+            "_count": 17,
+            "_wins": 8,
+            "Bc4": {
+              "_count": 3,
+              "_wins": 3,
+              "exd4": {
+                "_count": 3,
+                "_wins": 3,
+                "c3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "dxc3": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Nxc3": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  }
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 10,
+              "_wins": 4,
+              "exd4": {
+                "_count": 9,
+                "_wins": 3,
+                "Nxd4": {
+                  "_count": 9,
+                  "_wins": 3,
+                  "d6": {
+                    "_count": 2,
+                    "_wins": 1
+                  },
+                  "Bc5": {
+                    "_count": 5,
+                    "_wins": 1,
+                    "Be3": {
+                      "_count": 3,
+                      "_wins": 0,
+                      "Nc6": {}
+                    },
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            },
+            "c3": {
+              "_count": 2,
+              "_wins": 1,
+              "exd4": {
+                "_count": 2,
+                "_wins": 1,
+                "cxd4": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          },
+          "Bb4+": {
+            "_count": 2,
+            "_wins": 1
+          },
+          "f6": {
+            "_count": 8,
+            "_wins": 3,
+            "Bc4": {
+              "_count": 3,
+              "_wins": 1
+            },
+            "Nf3": {
+              "_count": 3,
+              "_wins": 1,
+              "d6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          },
+          "Qe7": {
+            "_count": 6,
+            "_wins": 2,
+            "dxe5": {
+              "_count": 3,
+              "_wins": 0,
+              "Qxe5": {
+                "_count": 3,
+                "_wins": 0,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 3,
+              "_wins": 2,
+              "d6": {
+                "_count": 2,
+                "_wins": 2
+              }
+            }
+          },
+          "d5": {
+            "_count": 8,
+            "_wins": 3,
+            "dxe5": {
+              "_count": 8,
+              "_wins": 3,
+              "dxe4": {
+                "_count": 3,
+                "_wins": 1,
+                "Qxd8+": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Kxd8": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nc3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              },
+              "d4": {
+                "_count": 2,
+                "_wins": 0
+              }
+            }
+          },
+          "Nf6": {
+            "_count": 10,
+            "_wins": 6,
+            "dxe5": {
+              "_count": 6,
+              "_wins": 4,
+              "Nxe4": {
+                "_count": 4,
+                "_wins": 2,
+                "Bc4": {
+                  "_count": 4,
+                  "_wins": 2,
+                  "Bc5": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Bxf7+": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Kf8": {}
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Qh4": {
+            "_count": 3,
+            "_wins": 1,
+            "Qf3": {
+              "_count": 2,
+              "_wins": 0
+            }
+          },
+          "f5": {
+            "_count": 2,
+            "_wins": 1,
+            "c3": {
+              "_count": 2,
+              "_wins": 1
+            }
+          },
+          "Bc5": {
+            "_count": 4,
+            "_wins": 2,
+            "c3": {
+              "_count": 2,
+              "_wins": 1
+            },
+            "dxc5": {
+              "_count": 2,
+              "_wins": 1
+            }
+          }
+        },
+        "d3": {
+          "_count": 3,
+          "_wins": 0,
+          "Nc6": {
+            "_count": 2,
+            "_wins": 0,
+            "Nf3": {
+              "_count": 2,
+              "_wins": 0
+            }
+          }
+        }
+      },
+      "e6": {
+        "_count": 94,
+        "_wins": 49,
+        "d4": {
+          "_count": 54,
+          "_wins": 29,
+          "c5": {
+            "_count": 12,
+            "_wins": 6,
+            "d5": {
+              "_count": 4,
+              "_wins": 3,
+              "d6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            },
+            "Bc4": {
+              "_count": 3,
+              "_wins": 2,
+              "cxd4": {
+                "_count": 3,
+                "_wins": 2,
+                "Qxd4": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Qd1": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 5,
+              "_wins": 1,
+              "Nc6": {
+                "_count": 2,
+                "_wins": 1
+              },
+              "cxd4": {
+                "_count": 2,
+                "_wins": 0,
+                "Nxd4": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            }
+          },
+          "d5": {
+            "_count": 17,
+            "_wins": 9,
+            "exd5": {
+              "_count": 9,
+              "_wins": 5,
+              "exd5": {
+                "_count": 9,
+                "_wins": 5,
+                "Nf3": {
+                  "_count": 9,
+                  "_wins": 5,
+                  "Nf6": {
+                    "_count": 7,
+                    "_wins": 4,
+                    "Be2": {
+                      "_count": 2,
+                      "_wins": 1
+                    },
+                    "c4": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            },
+            "e5": {
+              "_count": 6,
+              "_wins": 2,
+              "c5": {
+                "_count": 5,
+                "_wins": 1,
+                "Nf3": {
+                  "_count": 3,
+                  "_wins": 0,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              }
+            }
+          },
+          "c6": {
+            "_count": 7,
+            "_wins": 2,
+            "Nf3": {
+              "_count": 5,
+              "_wins": 2
+            }
+          },
+          "b6": {
+            "_count": 6,
+            "_wins": 4,
+            "Nf3": {
+              "_count": 4,
+              "_wins": 3,
+              "Bb7": {
+                "_count": 4,
+                "_wins": 3,
+                "d5": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          },
+          "d6": {
+            "_count": 3,
+            "_wins": 2
+          },
+          "Nf6": {
+            "_count": 3,
+            "_wins": 2
+          }
+        },
+        "Nf3": {
+          "_count": 36,
+          "_wins": 18,
+          "d5": {
+            "_count": 14,
+            "_wins": 9,
+            "exd5": {
+              "_count": 13,
+              "_wins": 9,
+              "exd5": {
+                "_count": 12,
+                "_wins": 8,
+                "d4": {
+                  "_count": 11,
+                  "_wins": 7,
+                  "Nf6": {
+                    "_count": 6,
+                    "_wins": 4,
+                    "c4": {
+                      "_count": 2,
+                      "_wins": 2
+                    },
+                    "Be3": {
+                      "_count": 2,
+                      "_wins": 0
+                    },
+                    "Be2": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  },
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            }
+          },
+          "d6": {
+            "_count": 3,
+            "_wins": 1
+          },
+          "b6": {
+            "_count": 2,
+            "_wins": 2
+          },
+          "c6": {
+            "_count": 3,
+            "_wins": 0,
+            "d4": {
+              "_count": 2,
+              "_wins": 0
+            }
+          },
+          "g6": {
+            "_count": 2,
+            "_wins": 1
+          },
+          "Nc6": {
+            "_count": 2,
+            "_wins": 0,
+            "Be2": {
+              "_count": 2,
+              "_wins": 0
+            }
+          },
+          "c5": {
+            "_count": 4,
+            "_wins": 3,
+            "Bc4": {
+              "_count": 3,
+              "_wins": 2
+            }
+          },
+          "Ne7": {
+            "_count": 2,
+            "_wins": 0
+          }
+        },
+        "f3": {
+          "_count": 2,
+          "_wins": 2
+        }
+      },
+      "c5": {
+        "_count": 98,
+        "_wins": 46,
+        "d4": {
+          "_count": 41,
+          "_wins": 18,
+          "Nc6": {
+            "_count": 11,
+            "_wins": 6,
+            "Bc4": {
+              "_count": 2,
+              "_wins": 1,
+              "cxd4": {
+                "_count": 2,
+                "_wins": 1,
+                "c3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "dxc3": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nxc3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            },
+            "d5": {
+              "_count": 5,
+              "_wins": 3,
+              "Nb8": {
+                "_count": 2,
+                "_wins": 1
+              },
+              "Ne5": {
+                "_count": 2,
+                "_wins": 1,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            },
+            "dxc5": {
+              "_count": 3,
+              "_wins": 2,
+              "e6": {
+                "_count": 2,
+                "_wins": 2,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "Bxc5": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              }
+            }
+          },
+          "cxd4": {
+            "_count": 21,
+            "_wins": 7,
+            "Bc4": {
+              "_count": 4,
+              "_wins": 0,
+              "Nc6": {
+                "_count": 2,
+                "_wins": 0
+              }
+            },
+            "c3": {
+              "_count": 12,
+              "_wins": 4,
+              "dxc3": {
+                "_count": 9,
+                "_wins": 4,
+                "Bc4": {
+                  "_count": 6,
+                  "_wins": 1,
+                  "cxb2": {
+                    "_count": 4,
+                    "_wins": 1,
+                    "Bxb2": {
+                      "_count": 4,
+                      "_wins": 1,
+                      "Nf6": {}
+                    }
+                  }
+                },
+                "Nxc3": {
+                  "_count": 3,
+                  "_wins": 3,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              },
+              "Nc6": {
+                "_count": 3,
+                "_wins": 0,
+                "Bc4": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 4,
+              "_wins": 2,
+              "Nc6": {
+                "_count": 2,
+                "_wins": 1,
+                "Nxd4": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          },
+          "e6": {
+            "_count": 5,
+            "_wins": 2,
+            "Bc4": {
+              "_count": 2,
+              "_wins": 0
+            },
+            "dxc5": {
+              "_count": 3,
+              "_wins": 2,
+              "Bxc5": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          },
+          "d6": {
+            "_count": 2,
+            "_wins": 1,
+            "dxc5": {
+              "_count": 2,
+              "_wins": 1
+            }
+          }
+        },
+        "Bc4": {
+          "_count": 37,
+          "_wins": 22,
+          "Nc6": {
+            "_count": 16,
+            "_wins": 9,
+            "Nf3": {
+              "_count": 14,
+              "_wins": 8,
+              "g6": {
+                "_count": 3,
+                "_wins": 2,
+                "O-O": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              },
+              "Nf6": {
+                "_count": 2,
+                "_wins": 1
+              },
+              "e6": {
+                "_count": 6,
+                "_wins": 4,
+                "O-O": {
+                  "_count": 5,
+                  "_wins": 3,
+                  "d5": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "exd5": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "exd5": {}
+                    }
+                  }
+                }
+              }
+            },
+            "d3": {
+              "_count": 2,
+              "_wins": 1
+            }
+          },
+          "e6": {
+            "_count": 11,
+            "_wins": 5,
+            "Nf3": {
+              "_count": 10,
+              "_wins": 5,
+              "Nc6": {
+                "_count": 4,
+                "_wins": 3,
+                "O-O": {
+                  "_count": 3,
+                  "_wins": 2
+                }
+              },
+              "a6": {
+                "_count": 4,
+                "_wins": 2,
+                "O-O": {
+                  "_count": 4,
+                  "_wins": 2,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "d4": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "d6": {
+            "_count": 5,
+            "_wins": 4,
+            "Nf3": {
+              "_count": 3,
+              "_wins": 2
+            }
+          },
+          "g6": {
+            "_count": 3,
+            "_wins": 3,
+            "Qf3": {
+              "_count": 2,
+              "_wins": 2
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 17,
+          "_wins": 6,
+          "e6": {
+            "_count": 5,
+            "_wins": 2,
+            "Bc4": {
+              "_count": 2,
+              "_wins": 0
+            },
+            "d4": {
+              "_count": 2,
+              "_wins": 1
+            }
+          },
+          "Nc6": {
+            "_count": 10,
+            "_wins": 3,
+            "Bc4": {
+              "_count": 6,
+              "_wins": 2,
+              "e6": {
+                "_count": 3,
+                "_wins": 0
+              }
+            },
+            "d4": {
+              "_count": 2,
+              "_wins": 0,
+              "cxd4": {
+                "_count": 2,
+                "_wins": 0
+              }
+            }
+          }
+        }
+      },
+      "g6": {
+        "_count": 46,
+        "_wins": 23,
+        "d4": {
+          "_count": 28,
+          "_wins": 15,
+          "Bg7": {
+            "_count": 25,
+            "_wins": 14,
+            "e5": {
+              "_count": 24,
+              "_wins": 14,
+              "f6": {
+                "_count": 2,
+                "_wins": 2,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "fxe5": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Nxe5": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bxe5": {}
+                    }
+                  }
+                }
+              },
+              "e6": {
+                "_count": 6,
+                "_wins": 4,
+                "Nf3": {
+                  "_count": 5,
+                  "_wins": 3,
+                  "Ne7": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "Bc4": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "O-O": {}
+                    }
+                  }
+                }
+              },
+              "d6": {
+                "_count": 10,
+                "_wins": 4,
+                "Nf3": {
+                  "_count": 9,
+                  "_wins": 4,
+                  "dxe5": {
+                    "_count": 6,
+                    "_wins": 2,
+                    "Bc4": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "exd4": {}
+                    },
+                    "Nxe5": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Bxe5": {}
+                    }
+                  }
+                }
+              },
+              "d5": {
+                "_count": 2,
+                "_wins": 2,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              },
+              "b6": {
+                "_count": 3,
+                "_wins": 1
+              }
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 16,
+          "_wins": 7,
+          "Bg7": {
+            "_count": 13,
+            "_wins": 5,
+            "Be2": {
+              "_count": 2,
+              "_wins": 0,
+              "d6": {
+                "_count": 2,
+                "_wins": 0,
+                "O-O": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            },
+            "d4": {
+              "_count": 5,
+              "_wins": 1,
+              "e6": {
+                "_count": 3,
+                "_wins": 0
+              }
+            },
+            "e5": {
+              "_count": 3,
+              "_wins": 2,
+              "d6": {
+                "_count": 2,
+                "_wins": 1,
+                "exd6": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "cxd6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "g3": {
+              "_count": 2,
+              "_wins": 2
+            }
+          },
+          "d6": {
+            "_count": 2,
+            "_wins": 2,
+            "g3": {
+              "_count": 2,
+              "_wins": 2
+            }
+          }
+        }
+      },
+      "d5": {
+        "_count": 105,
+        "_wins": 53,
+        "e5": {
+          "_count": 6,
+          "_wins": 3,
+          "d4": {
+            "_count": 2,
+            "_wins": 1,
+            "Nf3": {
+              "_count": 2,
+              "_wins": 1
+            }
+          }
+        },
+        "d4": {
+          "_count": 29,
+          "_wins": 17,
+          "dxe4": {
+            "_count": 26,
+            "_wins": 16,
+            "Nc3": {
+              "_count": 21,
+              "_wins": 14,
+              "Nf6": {
+                "_count": 15,
+                "_wins": 9,
+                "f3": {
+                  "_count": 12,
+                  "_wins": 6,
+                  "exf3": {
+                    "_count": 7,
+                    "_wins": 5,
+                    "Nxf3": {
+                      "_count": 7,
+                      "_wins": 5,
+                      "Nc6": {},
+                      "Bg4": {}
+                    }
+                  },
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 0,
+                    "fxe4": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  },
+                  "Bf5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "Bc4": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "Bf5": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "f3": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  }
+                }
+              },
+              "e6": {
+                "_count": 2,
+                "_wins": 2
+              },
+              "f5": {
+                "_count": 3,
+                "_wins": 3,
+                "f3": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              }
+            },
+            "Bc4": {
+              "_count": 3,
+              "_wins": 2,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 2
+              }
+            }
+          },
+          "e6": {
+            "_count": 2,
+            "_wins": 1,
+            "exd5": {
+              "_count": 2,
+              "_wins": 1
+            }
+          }
+        },
+        "exd5": {
+          "_count": 64,
+          "_wins": 29,
+          "Qxd5": {
+            "_count": 56,
+            "_wins": 25,
+            "Nc3": {
+              "_count": 56,
+              "_wins": 25,
+              "Qa5": {
+                "_count": 11,
+                "_wins": 5,
+                "Nf3": {
+                  "_count": 7,
+                  "_wins": 3,
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Bc4": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  }
+                },
+                "b4": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Qxb4": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nb5": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              },
+              "Qe5+": {
+                "_count": 4,
+                "_wins": 1,
+                "Be2": {
+                  "_count": 3,
+                  "_wins": 1
+                }
+              },
+              "Qe6+": {
+                "_count": 13,
+                "_wins": 6,
+                "Be2": {
+                  "_count": 11,
+                  "_wins": 5,
+                  "Nc6": {
+                    "_count": 5,
+                    "_wins": 3,
+                    "Nf3": {
+                      "_count": 5,
+                      "_wins": 3,
+                      "Nf6": {},
+                      "Qg6": {}
+                    }
+                  },
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  },
+                  "Qg6": {
+                    "_count": 3,
+                    "_wins": 0,
+                    "g3": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  }
+                },
+                "Nge2": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              },
+              "Qd8": {
+                "_count": 25,
+                "_wins": 12,
+                "Nf3": {
+                  "_count": 18,
+                  "_wins": 8,
+                  "Nf6": {
+                    "_count": 8,
+                    "_wins": 3,
+                    "Bc4": {
+                      "_count": 8,
+                      "_wins": 3,
+                      "Nc6": {},
+                      "e6": {}
+                    }
+                  },
+                  "Bf5": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Bc4": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "e6": {}
+                    }
+                  },
+                  "c6": {
+                    "_count": 3,
+                    "_wins": 0,
+                    "Bc4": {
+                      "_count": 3,
+                      "_wins": 0,
+                      "Bf5": {}
+                    }
+                  },
+                  "Bg4": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                },
+                "Bc4": {
+                  "_count": 7,
+                  "_wins": 4,
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "e6": {
+            "_count": 3,
+            "_wins": 1
+          },
+          "Nf6": {
+            "_count": 3,
+            "_wins": 3,
+            "Nf3": {
+              "_count": 2,
+              "_wins": 2
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 3,
+          "_wins": 3,
+          "dxe4": {
+            "_count": 2,
+            "_wins": 2,
+            "Ng1": {
+              "_count": 2,
+              "_wins": 2
+            }
+          }
+        }
+      },
+      "c6": {
+        "_count": 74,
+        "_wins": 30,
+        "d4": {
+          "_count": 36,
+          "_wins": 15,
+          "d5": {
+            "_count": 35,
+            "_wins": 15,
+            "e5": {
+              "_count": 23,
+              "_wins": 9,
+              "Bf5": {
+                "_count": 16,
+                "_wins": 6,
+                "Nf3": {
+                  "_count": 9,
+                  "_wins": 5,
+                  "e6": {
+                    "_count": 7,
+                    "_wins": 3,
+                    "c4": {
+                      "_count": 4,
+                      "_wins": 2
+                    },
+                    "Bd3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Bxd3": {}
+                    }
+                  }
+                },
+                "c4": {
+                  "_count": 7,
+                  "_wins": 1,
+                  "e6": {
+                    "_count": 7,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 7,
+                      "_wins": 1,
+                      "c5": {},
+                      "Nd7": {}
+                    }
+                  }
+                }
+              },
+              "c5": {
+                "_count": 7,
+                "_wins": 3,
+                "Nf3": {
+                  "_count": 6,
+                  "_wins": 3,
+                  "Bg4": {
+                    "_count": 3,
+                    "_wins": 2
+                  },
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Bb5": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Bg4": {}
+                    }
+                  }
+                }
+              }
+            },
+            "exd5": {
+              "_count": 8,
+              "_wins": 5,
+              "cxd5": {
+                "_count": 8,
+                "_wins": 5,
+                "Nf3": {
+                  "_count": 5,
+                  "_wins": 2,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 0
+                  },
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                },
+                "c4": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              }
+            },
+            "Nc3": {
+              "_count": 3,
+              "_wins": 0,
+              "dxe4": {
+                "_count": 2,
+                "_wins": 0,
+                "Nxe4": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            }
+          }
+        },
+        "Bc4": {
+          "_count": 4,
+          "_wins": 1,
+          "d5": {
+            "_count": 4,
+            "_wins": 1,
+            "exd5": {
+              "_count": 4,
+              "_wins": 1,
+              "cxd5": {
+                "_count": 4,
+                "_wins": 1,
+                "Bb3": {
+                  "_count": 4,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 33,
+          "_wins": 13,
+          "d5": {
+            "_count": 31,
+            "_wins": 12,
+            "exd5": {
+              "_count": 28,
+              "_wins": 10,
+              "cxd5": {
+                "_count": 28,
+                "_wins": 10,
+                "d4": {
+                  "_count": 25,
+                  "_wins": 8,
+                  "Nc6": {
+                    "_count": 14,
+                    "_wins": 5,
+                    "c4": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Bg4": {}
+                    },
+                    "Bb5": {
+                      "_count": 4,
+                      "_wins": 1,
+                      "Bg4": {},
+                      "a6": {}
+                    },
+                    "Be2": {
+                      "_count": 4,
+                      "_wins": 2,
+                      "Bg4": {}
+                    },
+                    "Be3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  },
+                  "Bf5": {
+                    "_count": 3,
+                    "_wins": 1
+                  },
+                  "Bg4": {
+                    "_count": 4,
+                    "_wins": 0,
+                    "Be2": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  },
+                  "Nf6": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "Be3": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Nf6": {
+        "_count": 15,
+        "_wins": 10,
+        "Nc3": {
+          "_count": 2,
+          "_wins": 1
+        },
+        "d4": {
+          "_count": 4,
+          "_wins": 2,
+          "Nxe4": {
+            "_count": 3,
+            "_wins": 1
+          }
+        },
+        "e5": {
+          "_count": 9,
+          "_wins": 7,
+          "Nd5": {
+            "_count": 5,
+            "_wins": 3,
+            "d4": {
+              "_count": 2,
+              "_wins": 1
+            },
+            "Nf3": {
+              "_count": 2,
+              "_wins": 2
+            }
+          },
+          "Ng8": {
+            "_count": 4,
+            "_wins": 4,
+            "Nf3": {
+              "_count": 2,
+              "_wins": 2,
+              "d6": {
+                "_count": 2,
+                "_wins": 2
+              }
+            },
+            "d4": {
+              "_count": 2,
+              "_wins": 2
+            }
+          }
+        }
+      },
+      "Nc6": {
+        "_count": 6,
+        "_wins": 3,
+        "d4": {
+          "_count": 3,
+          "_wins": 1
+        },
+        "Nf3": {
+          "_count": 2,
+          "_wins": 1
+        }
+      },
+      "a5": {
+        "_count": 2,
+        "_wins": 1
+      },
+      "b6": {
+        "_count": 24,
+        "_wins": 13,
+        "d4": {
+          "_count": 16,
+          "_wins": 9,
+          "Bb7": {
+            "_count": 15,
+            "_wins": 9,
+            "d5": {
+              "_count": 15,
+              "_wins": 9,
+              "Nf6": {
+                "_count": 3,
+                "_wins": 2,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              },
+              "e6": {
+                "_count": 7,
+                "_wins": 3,
+                "Nf3": {
+                  "_count": 6,
+                  "_wins": 2,
+                  "exd5": {
+                    "_count": 5,
+                    "_wins": 2,
+                    "exd5": {
+                      "_count": 5,
+                      "_wins": 2,
+                      "Nf6": {}
+                    }
+                  }
+                }
+              },
+              "c6": {
+                "_count": 3,
+                "_wins": 3,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "cxd5": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "exd5": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "d6": {}
+                    }
+                  }
+                }
+              },
+              "g6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 6,
+          "_wins": 2,
+          "Bb7": {
+            "_count": 5,
+            "_wins": 1,
+            "Nc3": {
+              "_count": 2,
+              "_wins": 0
+            },
+            "d3": {
+              "_count": 2,
+              "_wins": 0
+            }
+          }
+        }
+      },
+      "d6": {
+        "_count": 31,
+        "_wins": 17,
+        "d4": {
+          "_count": 22,
+          "_wins": 12,
+          "c6": {
+            "_count": 2,
+            "_wins": 0
+          },
+          "e5": {
+            "_count": 4,
+            "_wins": 3,
+            "dxe5": {
+              "_count": 3,
+              "_wins": 2,
+              "Nc6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          },
+          "Nf6": {
+            "_count": 4,
+            "_wins": 1,
+            "Nc3": {
+              "_count": 2,
+              "_wins": 1
+            }
+          },
+          "Nc6": {
+            "_count": 2,
+            "_wins": 2
+          },
+          "e6": {
+            "_count": 2,
+            "_wins": 0
+          },
+          "g6": {
+            "_count": 2,
+            "_wins": 2,
+            "Nf3": {
+              "_count": 2,
+              "_wins": 2,
+              "Bg7": {
+                "_count": 2,
+                "_wins": 2
+              }
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 7,
+          "_wins": 3,
+          "Nf6": {
+            "_count": 4,
+            "_wins": 2,
+            "d3": {
+              "_count": 3,
+              "_wins": 1,
+              "g6": {
+                "_count": 2,
+                "_wins": 1,
+                "g3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Bg7": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Bg2": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "O-O": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "g5": {
+        "_count": 5,
+        "_wins": 2,
+        "d4": {
+          "_count": 4,
+          "_wins": 1,
+          "g4": {
+            "_count": 3,
+            "_wins": 1,
+            "Qxg4": {
+              "_count": 3,
+              "_wins": 1,
+              "d5": {
+                "_count": 2,
+                "_wins": 1,
+                "Qf3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "dxe4": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Qxe4": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Nf6": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "h5": {
+        "_count": 2,
+        "_wins": 2
+      },
+      "h6": {
+        "_count": 2,
+        "_wins": 1,
+        "d4": {
+          "_count": 2,
+          "_wins": 1
+        }
+      },
+      "a6": {
+        "_count": 2,
+        "_wins": 0,
+        "d4": {
+          "_count": 2,
+          "_wins": 0
+        }
+      },
+      "f6": {
+        "_count": 3,
+        "_wins": 2
+      }
+    },
+    "e3": {
+      "_count": 10,
+      "_wins": 6,
+      "c5": {
+        "_count": 2,
+        "_wins": 1,
+        "d4": {
+          "_count": 2,
+          "_wins": 1,
+          "cxd4": {
+            "_count": 2,
+            "_wins": 1,
+            "exd4": {
+              "_count": 2,
+              "_wins": 1,
+              "Nc6": {
+                "_count": 2,
+                "_wins": 1,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "e5": {
+        "_count": 3,
+        "_wins": 2,
+        "d4": {
+          "_count": 3,
+          "_wins": 2,
+          "exd4": {
+            "_count": 2,
+            "_wins": 2,
+            "exd4": {
+              "_count": 2,
+              "_wins": 2
+            }
+          }
+        }
+      }
+    }
+  },
+  "black": {
+    "e4": {
+      "_count": 809,
+      "_wins": 408,
+      "c6": {
+        "_count": 800,
+        "_wins": 403,
+        "Qf3": {
+          "_count": 20,
+          "_wins": 11,
+          "d5": {
+            "_count": 20,
+            "_wins": 11,
+            "exd5": {
+              "_count": 15,
+              "_wins": 9,
+              "cxd5": {
+                "_count": 15,
+                "_wins": 9,
+                "Nc3": {
+                  "_count": 3,
+                  "_wins": 2
+                },
+                "Bb5+": {
+                  "_count": 6,
+                  "_wins": 4,
+                  "Nc6": {
+                    "_count": 6,
+                    "_wins": 4,
+                    "Nc3": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  }
+                },
+                "c4": {
+                  "_count": 5,
+                  "_wins": 2,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "cxd5": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  },
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "cxd5": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Nxd5": {}
+                    }
+                  }
+                }
+              }
+            },
+            "e5": {
+              "_count": 2,
+              "_wins": 1
+            },
+            "d3": {
+              "_count": 2,
+              "_wins": 1,
+              "e6": {
+                "_count": 2,
+                "_wins": 1,
+                "h3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          }
+        },
+        "Bc4": {
+          "_count": 91,
+          "_wins": 50,
+          "d5": {
+            "_count": 91,
+            "_wins": 50,
+            "exd5": {
+              "_count": 88,
+              "_wins": 48,
+              "cxd5": {
+                "_count": 88,
+                "_wins": 48,
+                "Bb5+": {
+                  "_count": 27,
+                  "_wins": 14,
+                  "Nc6": {
+                    "_count": 27,
+                    "_wins": 14,
+                    "Nc3": {
+                      "_count": 3,
+                      "_wins": 1
+                    },
+                    "Nf3": {
+                      "_count": 9,
+                      "_wins": 5,
+                      "Bg4": {}
+                    },
+                    "d4": {
+                      "_count": 5,
+                      "_wins": 3,
+                      "e6": {}
+                    },
+                    "Bxc6+": {
+                      "_count": 9,
+                      "_wins": 4,
+                      "bxc6": {}
+                    }
+                  }
+                },
+                "Bb3": {
+                  "_count": 59,
+                  "_wins": 32,
+                  "Bf5": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  },
+                  "e5": {
+                    "_count": 6,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "e4": {}
+                    },
+                    "h3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  },
+                  "Nf6": {
+                    "_count": 3,
+                    "_wins": 1
+                  },
+                  "Nc6": {
+                    "_count": 48,
+                    "_wins": 28,
+                    "d4": {
+                      "_count": 10,
+                      "_wins": 4,
+                      "Bf5": {},
+                      "Qb6": {}
+                    },
+                    "Nf3": {
+                      "_count": 12,
+                      "_wins": 9,
+                      "Bg4": {}
+                    },
+                    "Qf3": {
+                      "_count": 13,
+                      "_wins": 8,
+                      "Nf6": {},
+                      "e6": {}
+                    },
+                    "d3": {
+                      "_count": 2,
+                      "_wins": 2
+                    },
+                    "h3": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "e5": {}
+                    },
+                    "Nc3": {
+                      "_count": 2,
+                      "_wins": 1
+                    },
+                    "c4": {
+                      "_count": 3,
+                      "_wins": 3,
+                      "d4": {}
+                    }
+                  }
+                },
+                "Bd3": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              }
+            }
+          }
+        },
+        "f4": {
+          "_count": 24,
+          "_wins": 12,
+          "d5": {
+            "_count": 24,
+            "_wins": 12,
+            "exd5": {
+              "_count": 12,
+              "_wins": 7,
+              "cxd5": {
+                "_count": 12,
+                "_wins": 7,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 2
+                },
+                "Nf3": {
+                  "_count": 5,
+                  "_wins": 4,
+                  "Bg4": {
+                    "_count": 4,
+                    "_wins": 3,
+                    "Be2": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  }
+                },
+                "d4": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Bg4": {}
+                    }
+                  }
+                }
+              }
+            },
+            "e5": {
+              "_count": 10,
+              "_wins": 3,
+              "f6": {
+                "_count": 3,
+                "_wins": 1,
+                "d4": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              },
+              "Bf5": {
+                "_count": 5,
+                "_wins": 2,
+                "d4": {
+                  "_count": 3,
+                  "_wins": 1
+                }
+              }
+            }
+          }
+        },
+        "d4": {
+          "_count": 256,
+          "_wins": 135,
+          "d5": {
+            "_count": 256,
+            "_wins": 135,
+            "e5": {
+              "_count": 139,
+              "_wins": 77,
+              "c5": {
+                "_count": 138,
+                "_wins": 76,
+                "c3": {
+                  "_count": 60,
+                  "_wins": 29,
+                  "cxd4": {
+                    "_count": 5,
+                    "_wins": 1,
+                    "cxd4": {
+                      "_count": 5,
+                      "_wins": 1,
+                      "Nc6": {}
+                    }
+                  },
+                  "Nc6": {
+                    "_count": 52,
+                    "_wins": 25,
+                    "Nf3": {
+                      "_count": 30,
+                      "_wins": 11,
+                      "e6": {},
+                      "Bg4": {}
+                    },
+                    "Bb5": {
+                      "_count": 7,
+                      "_wins": 5,
+                      "a6": {},
+                      "Bf5": {}
+                    },
+                    "f4": {
+                      "_count": 6,
+                      "_wins": 4,
+                      "Bf5": {}
+                    },
+                    "Be3": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Qb6": {}
+                    },
+                    "h3": {
+                      "_count": 2,
+                      "_wins": 0
+                    },
+                    "dxc5": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Nxe5": {}
+                    }
+                  },
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                },
+                "Nf3": {
+                  "_count": 40,
+                  "_wins": 24,
+                  "Nc6": {
+                    "_count": 15,
+                    "_wins": 9,
+                    "Be3": {
+                      "_count": 2,
+                      "_wins": 1
+                    },
+                    "Bb5": {
+                      "_count": 9,
+                      "_wins": 4,
+                      "Bd7": {},
+                      "Bg4": {}
+                    },
+                    "c3": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  },
+                  "Bg4": {
+                    "_count": 23,
+                    "_wins": 13,
+                    "Be2": {
+                      "_count": 8,
+                      "_wins": 7,
+                      "Bxf3": {},
+                      "Nc6": {}
+                    },
+                    "h3": {
+                      "_count": 4,
+                      "_wins": 1,
+                      "Bxf3": {}
+                    },
+                    "Be3": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "Nc6": {}
+                    },
+                    "c3": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Bxf3": {}
+                    },
+                    "Bb5+": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Nc6": {}
+                    },
+                    "dxc5": {
+                      "_count": 3,
+                      "_wins": 2
+                    }
+                  }
+                },
+                "Bb5+": {
+                  "_count": 6,
+                  "_wins": 4,
+                  "Nc6": {
+                    "_count": 6,
+                    "_wins": 4,
+                    "Bxc6+": {
+                      "_count": 4,
+                      "_wins": 3,
+                      "bxc6": {}
+                    },
+                    "dxc5": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "a6": {}
+                    }
+                  }
+                },
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 2
+                },
+                "dxc5": {
+                  "_count": 12,
+                  "_wins": 4,
+                  "Nc6": {
+                    "_count": 12,
+                    "_wins": 4,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 0
+                    },
+                    "Bb5": {
+                      "_count": 4,
+                      "_wins": 3,
+                      "e6": {}
+                    },
+                    "Nc3": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  }
+                },
+                "c4": {
+                  "_count": 4,
+                  "_wins": 4,
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 3
+                  }
+                },
+                "Be3": {
+                  "_count": 8,
+                  "_wins": 5,
+                  "Nc6": {
+                    "_count": 6,
+                    "_wins": 4,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  },
+                  "Qb6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "f4": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              }
+            },
+            "Nd2": {
+              "_count": 3,
+              "_wins": 1,
+              "e6": {
+                "_count": 3,
+                "_wins": 1
+              }
+            },
+            "exd5": {
+              "_count": 68,
+              "_wins": 41,
+              "cxd5": {
+                "_count": 67,
+                "_wins": 40,
+                "Nc3": {
+                  "_count": 31,
+                  "_wins": 18,
+                  "Bf5": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Nc6": {}
+                    }
+                  },
+                  "Nc6": {
+                    "_count": 27,
+                    "_wins": 16,
+                    "Nf3": {
+                      "_count": 20,
+                      "_wins": 10,
+                      "Bg4": {}
+                    },
+                    "Be3": {
+                      "_count": 2,
+                      "_wins": 2
+                    },
+                    "Bb5": {
+                      "_count": 3,
+                      "_wins": 3
+                    }
+                  }
+                },
+                "c3": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                },
+                "Nf3": {
+                  "_count": 17,
+                  "_wins": 13,
+                  "Nc6": {
+                    "_count": 7,
+                    "_wins": 7,
+                    "Bb5": {
+                      "_count": 4,
+                      "_wins": 4,
+                      "Bg4": {}
+                    },
+                    "Nc3": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  },
+                  "Bg4": {
+                    "_count": 9,
+                    "_wins": 5,
+                    "Be2": {
+                      "_count": 6,
+                      "_wins": 2,
+                      "Bxf3": {}
+                    }
+                  }
+                },
+                "Bd3": {
+                  "_count": 5,
+                  "_wins": 3,
+                  "Nc6": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "c3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "e5": {}
+                    }
+                  }
+                },
+                "Bb5+": {
+                  "_count": 4,
+                  "_wins": 4,
+                  "Nc6": {
+                    "_count": 4,
+                    "_wins": 4,
+                    "Bxc6+": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "bxc6": {}
+                    },
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  }
+                },
+                "Qf3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nc3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            },
+            "f3": {
+              "_count": 9,
+              "_wins": 2,
+              "e6": {
+                "_count": 7,
+                "_wins": 2,
+                "Nc3": {
+                  "_count": 6,
+                  "_wins": 2,
+                  "c5": {
+                    "_count": 3,
+                    "_wins": 1
+                  },
+                  "Nd7": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "Nc3": {
+              "_count": 31,
+              "_wins": 10,
+              "dxe4": {
+                "_count": 3,
+                "_wins": 0,
+                "Nxe4": {
+                  "_count": 3,
+                  "_wins": 0,
+                  "e5": {
+                    "_count": 3,
+                    "_wins": 0
+                  }
+                }
+              },
+              "e6": {
+                "_count": 25,
+                "_wins": 9,
+                "e5": {
+                  "_count": 4,
+                  "_wins": 2,
+                  "c5": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Nc6": {}
+                    }
+                  }
+                },
+                "Nf3": {
+                  "_count": 11,
+                  "_wins": 1,
+                  "c5": {
+                    "_count": 8,
+                    "_wins": 1,
+                    "exd5": {
+                      "_count": 5,
+                      "_wins": 0,
+                      "cxd4": {},
+                      "exd5": {}
+                    }
+                  },
+                  "Bb4": {
+                    "_count": 2,
+                    "_wins": 0,
+                    "Bd2": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  }
+                },
+                "exd5": {
+                  "_count": 7,
+                  "_wins": 4,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 2
+                  },
+                  "cxd5": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Nc6": {}
+                    }
+                  }
+                }
+              },
+              "Nf6": {
+                "_count": 2,
+                "_wins": 1,
+                "e5": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Ne4": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 2,
+              "_wins": 1,
+              "dxe4": {
+                "_count": 2,
+                "_wins": 1,
+                "Ne5": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "f4": {
+              "_count": 2,
+              "_wins": 2,
+              "e6": {
+                "_count": 2,
+                "_wins": 2
+              }
+            }
+          }
+        },
+        "Nc3": {
+          "_count": 57,
+          "_wins": 27,
+          "d5": {
+            "_count": 57,
+            "_wins": 27,
+            "Nf3": {
+              "_count": 4,
+              "_wins": 3,
+              "Bg4": {
+                "_count": 4,
+                "_wins": 3,
+                "exd5": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              }
+            },
+            "exd5": {
+              "_count": 42,
+              "_wins": 20,
+              "cxd5": {
+                "_count": 42,
+                "_wins": 20,
+                "d4": {
+                  "_count": 28,
+                  "_wins": 11,
+                  "Nc6": {
+                    "_count": 24,
+                    "_wins": 10,
+                    "Nf3": {
+                      "_count": 18,
+                      "_wins": 7,
+                      "Bg4": {}
+                    },
+                    "Bb5": {
+                      "_count": 2,
+                      "_wins": 1
+                    },
+                    "Be3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Bf5": {}
+                    }
+                  },
+                  "Bf5": {
+                    "_count": 4,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Nc6": {}
+                    }
+                  }
+                },
+                "Nf3": {
+                  "_count": 7,
+                  "_wins": 4,
+                  "d4": {
+                    "_count": 3,
+                    "_wins": 1
+                  },
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 2,
+                    "d4": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Bg4": {}
+                    }
+                  }
+                },
+                "Bb5+": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Bg4": {}
+                    }
+                  }
+                },
+                "d3": {
+                  "_count": 3,
+                  "_wins": 3,
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 3
+                  }
+                }
+              }
+            },
+            "e5": {
+              "_count": 4,
+              "_wins": 1,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 0
+              }
+            },
+            "d4": {
+              "_count": 2,
+              "_wins": 2,
+              "e6": {
+                "_count": 2,
+                "_wins": 2,
+                "e5": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 274,
+          "_wins": 131,
+          "d5": {
+            "_count": 272,
+            "_wins": 130,
+            "e5": {
+              "_count": 63,
+              "_wins": 28,
+              "d4": {
+                "_count": 5,
+                "_wins": 3,
+                "Bc4": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              },
+              "Bg4": {
+                "_count": 56,
+                "_wins": 23,
+                "d4": {
+                  "_count": 37,
+                  "_wins": 15,
+                  "c5": {
+                    "_count": 14,
+                    "_wins": 4,
+                    "c3": {
+                      "_count": 5,
+                      "_wins": 2,
+                      "cxd4": {},
+                      "Nc6": {}
+                    },
+                    "h3": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Bxf3": {}
+                    },
+                    "dxc5": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "Nc6": {}
+                    },
+                    "Be3": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "Nc6": {}
+                    }
+                  },
+                  "e6": {
+                    "_count": 3,
+                    "_wins": 1
+                  },
+                  "Bxf3": {
+                    "_count": 20,
+                    "_wins": 10,
+                    "Qxf3": {
+                      "_count": 19,
+                      "_wins": 10,
+                      "c5": {},
+                      "e6": {}
+                    }
+                  }
+                },
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 1
+                },
+                "Be2": {
+                  "_count": 14,
+                  "_wins": 6,
+                  "Bxf3": {
+                    "_count": 13,
+                    "_wins": 6,
+                    "Bxf3": {
+                      "_count": 13,
+                      "_wins": 6,
+                      "e6": {}
+                    }
+                  }
+                }
+              },
+              "e6": {
+                "_count": 2,
+                "_wins": 2
+              }
+            },
+            "exd5": {
+              "_count": 184,
+              "_wins": 89,
+              "cxd5": {
+                "_count": 181,
+                "_wins": 89,
+                "d4": {
+                  "_count": 111,
+                  "_wins": 58,
+                  "Nc6": {
+                    "_count": 19,
+                    "_wins": 9,
+                    "Bb5": {
+                      "_count": 5,
+                      "_wins": 1,
+                      "Bd7": {}
+                    },
+                    "Nc3": {
+                      "_count": 11,
+                      "_wins": 6,
+                      "Bg4": {},
+                      "Bf5": {}
+                    },
+                    "c3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  },
+                  "Bg4": {
+                    "_count": 91,
+                    "_wins": 49,
+                    "Nc3": {
+                      "_count": 27,
+                      "_wins": 14,
+                      "Bxf3": {},
+                      "Nc6": {},
+                      "e6": {}
+                    },
+                    "Bd3": {
+                      "_count": 6,
+                      "_wins": 2,
+                      "Bxf3": {}
+                    },
+                    "Be2": {
+                      "_count": 28,
+                      "_wins": 14,
+                      "Bxf3": {}
+                    },
+                    "Bb5+": {
+                      "_count": 9,
+                      "_wins": 6,
+                      "Nc6": {}
+                    },
+                    "c4": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "e6": {}
+                    },
+                    "Nbd2": {
+                      "_count": 3,
+                      "_wins": 0
+                    },
+                    "h3": {
+                      "_count": 8,
+                      "_wins": 6,
+                      "Bxf3": {}
+                    },
+                    "Be3": {
+                      "_count": 5,
+                      "_wins": 4,
+                      "Bxf3": {}
+                    }
+                  }
+                },
+                "Nc3": {
+                  "_count": 34,
+                  "_wins": 16,
+                  "d4": {
+                    "_count": 5,
+                    "_wins": 1,
+                    "Nb5": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  },
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 0
+                  },
+                  "Bg4": {
+                    "_count": 27,
+                    "_wins": 15,
+                    "Be2": {
+                      "_count": 11,
+                      "_wins": 7,
+                      "Bxf3": {}
+                    },
+                    "Bb5+": {
+                      "_count": 4,
+                      "_wins": 3,
+                      "Nc6": {}
+                    },
+                    "d4": {
+                      "_count": 7,
+                      "_wins": 3,
+                      "Nc6": {},
+                      "Bxf3": {}
+                    },
+                    "h3": {
+                      "_count": 5,
+                      "_wins": 2,
+                      "Bxf3": {}
+                    }
+                  }
+                },
+                "d3": {
+                  "_count": 2,
+                  "_wins": 2
+                },
+                "Bb5+": {
+                  "_count": 23,
+                  "_wins": 6,
+                  "Nc6": {
+                    "_count": 23,
+                    "_wins": 6,
+                    "Bxc6+": {
+                      "_count": 8,
+                      "_wins": 2,
+                      "bxc6": {}
+                    },
+                    "Nc3": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Bg4": {}
+                    },
+                    "O-O": {
+                      "_count": 6,
+                      "_wins": 1,
+                      "Bg4": {}
+                    },
+                    "d4": {
+                      "_count": 4,
+                      "_wins": 1,
+                      "Bg4": {}
+                    }
+                  }
+                },
+                "Be2": {
+                  "_count": 4,
+                  "_wins": 1,
+                  "Bg4": {
+                    "_count": 2,
+                    "_wins": 0
+                  },
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "c4": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Bg4": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "cxd5": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Bxf3": {}
+                    }
+                  }
+                },
+                "Bd3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "Bg4": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "O-O": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bxf3": {}
+                    }
+                  }
+                }
+              }
+            },
+            "d3": {
+              "_count": 4,
+              "_wins": 1,
+              "dxe4": {
+                "_count": 3,
+                "_wins": 1,
+                "Ng5": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "exd3": {
+                    "_count": 2,
+                    "_wins": 0,
+                    "Bxd3": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  }
+                }
+              }
+            },
+            "Bc4": {
+              "_count": 3,
+              "_wins": 3,
+              "dxc4": {
+                "_count": 3,
+                "_wins": 3
+              }
+            },
+            "Nc3": {
+              "_count": 13,
+              "_wins": 6,
+              "Bg4": {
+                "_count": 10,
+                "_wins": 5,
+                "Be2": {
+                  "_count": 6,
+                  "_wins": 3,
+                  "Bxf3": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "Bxf3": {
+                      "_count": 4,
+                      "_wins": 2,
+                      "e6": {}
+                    }
+                  }
+                },
+                "h3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "Bxf3": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Qxf3": {
+                      "_count": 2,
+                      "_wins": 2
+                    }
+                  }
+                }
+              },
+              "dxe4": {
+                "_count": 2,
+                "_wins": 1
+              }
+            },
+            "d4": {
+              "_count": 2,
+              "_wins": 2
+            }
+          },
+          "d6": {
+            "_count": 2,
+            "_wins": 1,
+            "Bc4": {
+              "_count": 2,
+              "_wins": 1
+            }
+          }
+        },
+        "d3": {
+          "_count": 29,
+          "_wins": 16,
+          "d5": {
+            "_count": 29,
+            "_wins": 16,
+            "exd5": {
+              "_count": 12,
+              "_wins": 6,
+              "cxd5": {
+                "_count": 12,
+                "_wins": 6,
+                "Nf3": {
+                  "_count": 5,
+                  "_wins": 3,
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Be2": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Bg4": {}
+                    }
+                  },
+                  "Bg4": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Be2": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bxf3": {}
+                    }
+                  }
+                },
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "e5": {
+              "_count": 4,
+              "_wins": 3,
+              "Bf5": {
+                "_count": 3,
+                "_wins": 2,
+                "d4": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 4,
+              "_wins": 3,
+              "Bg4": {
+                "_count": 3,
+                "_wins": 2,
+                "exd5": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Bxf3": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Qxf3": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "cxd5": {}
+                    }
+                  }
+                }
+              }
+            },
+            "Be3": {
+              "_count": 2,
+              "_wins": 0
+            },
+            "Nc3": {
+              "_count": 2,
+              "_wins": 1,
+              "e6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          }
+        },
+        "c4": {
+          "_count": 6,
+          "_wins": 1,
+          "d5": {
+            "_count": 6,
+            "_wins": 1,
+            "cxd5": {
+              "_count": 2,
+              "_wins": 1,
+              "cxd5": {
+                "_count": 2,
+                "_wins": 1,
+                "e5": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            },
+            "d3": {
+              "_count": 2,
+              "_wins": 0
+            }
+          }
+        },
+        "e5": {
+          "_count": 14,
+          "_wins": 9,
+          "d5": {
+            "_count": 14,
+            "_wins": 9,
+            "d4": {
+              "_count": 9,
+              "_wins": 6,
+              "c5": {
+                "_count": 8,
+                "_wins": 6,
+                "c3": {
+                  "_count": 7,
+                  "_wins": 6,
+                  "Nc6": {
+                    "_count": 7,
+                    "_wins": 6,
+                    "f4": {
+                      "_count": 2,
+                      "_wins": 2
+                    },
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bg4": {}
+                    },
+                    "Bb5": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            },
+            "exd6": {
+              "_count": 5,
+              "_wins": 3,
+              "exd6": {
+                "_count": 5,
+                "_wins": 3,
+                "d4": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "d5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "d5": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "d4": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Qh5": {
+          "_count": 7,
+          "_wins": 3,
+          "d5": {
+            "_count": 7,
+            "_wins": 3,
+            "exd5": {
+              "_count": 7,
+              "_wins": 3,
+              "cxd5": {
+                "_count": 7,
+                "_wins": 3,
+                "Bb5+": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Nc3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                },
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            }
+          }
+        },
+        "f3": {
+          "_count": 3,
+          "_wins": 1,
+          "d5": {
+            "_count": 3,
+            "_wins": 1,
+            "exd5": {
+              "_count": 2,
+              "_wins": 0,
+              "cxd5": {
+                "_count": 2,
+                "_wins": 0
+              }
+            }
+          }
+        },
+        "c3": {
+          "_count": 11,
+          "_wins": 1,
+          "d5": {
+            "_count": 10,
+            "_wins": 1,
+            "Qb3": {
+              "_count": 2,
+              "_wins": 0
+            },
+            "e5": {
+              "_count": 6,
+              "_wins": 1,
+              "Bf5": {
+                "_count": 5,
+                "_wins": 1,
+                "d4": {
+                  "_count": 5,
+                  "_wins": 1,
+                  "c5": {
+                    "_count": 3,
+                    "_wins": 0
+                  },
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "e5": {
+        "_count": 6,
+        "_wins": 2,
+        "Nf3": {
+          "_count": 4,
+          "_wins": 1,
+          "Nc6": {
+            "_count": 4,
+            "_wins": 1
+          }
+        }
+      },
+      "a5": {
+        "_count": 2,
+        "_wins": 2,
+        "d4": {
+          "_count": 2,
+          "_wins": 2,
+          "h5": {
+            "_count": 2,
+            "_wins": 2
+          }
+        }
+      }
+    },
+    "g3": {
+      "_count": 36,
+      "_wins": 11,
+      "d5": {
+        "_count": 5,
+        "_wins": 0,
+        "Bg2": {
+          "_count": 4,
+          "_wins": 0,
+          "e5": {
+            "_count": 3,
+            "_wins": 0
+          }
+        }
+      },
+      "c6": {
+        "_count": 30,
+        "_wins": 10,
+        "Bg2": {
+          "_count": 27,
+          "_wins": 9,
+          "d5": {
+            "_count": 26,
+            "_wins": 9,
+            "d3": {
+              "_count": 2,
+              "_wins": 1
+            },
+            "b3": {
+              "_count": 9,
+              "_wins": 2,
+              "Bf5": {
+                "_count": 4,
+                "_wins": 1,
+                "Bb2": {
+                  "_count": 4,
+                  "_wins": 1,
+                  "e6": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "d3": {
+                      "_count": 3,
+                      "_wins": 1
+                    }
+                  }
+                }
+              },
+              "Nf6": {
+                "_count": 2,
+                "_wins": 1,
+                "Bb2": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              },
+              "e6": {
+                "_count": 2,
+                "_wins": 0,
+                "Bb2": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            },
+            "e3": {
+              "_count": 3,
+              "_wins": 1,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 1,
+                "Ne2": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 6,
+              "_wins": 3,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 0
+              },
+              "e6": {
+                "_count": 3,
+                "_wins": 3
+              }
+            },
+            "d4": {
+              "_count": 3,
+              "_wins": 0,
+              "e6": {
+                "_count": 2,
+                "_wins": 0
+              }
+            }
+          }
+        }
+      }
+    },
+    "Nf3": {
+      "_count": 37,
+      "_wins": 20,
+      "c6": {
+        "_count": 36,
+        "_wins": 19,
+        "e4": {
+          "_count": 6,
+          "_wins": 5,
+          "d5": {
+            "_count": 6,
+            "_wins": 5,
+            "e5": {
+              "_count": 2,
+              "_wins": 2,
+              "Bg4": {
+                "_count": 2,
+                "_wins": 2
+              }
+            },
+            "exd5": {
+              "_count": 3,
+              "_wins": 2,
+              "cxd5": {
+                "_count": 3,
+                "_wins": 2
+              }
+            }
+          }
+        },
+        "d4": {
+          "_count": 17,
+          "_wins": 8,
+          "d5": {
+            "_count": 17,
+            "_wins": 8,
+            "Bf4": {
+              "_count": 5,
+              "_wins": 1,
+              "e6": {
+                "_count": 3,
+                "_wins": 1,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "e3": {
+              "_count": 6,
+              "_wins": 4,
+              "Bg4": {
+                "_count": 5,
+                "_wins": 3,
+                "Be2": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Bxf3": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Bxf3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "e6": {}
+                    }
+                  }
+                }
+              }
+            },
+            "Nc3": {
+              "_count": 3,
+              "_wins": 0
+            },
+            "g3": {
+              "_count": 2,
+              "_wins": 2
+            }
+          }
+        },
+        "Nc3": {
+          "_count": 5,
+          "_wins": 3,
+          "d5": {
+            "_count": 5,
+            "_wins": 3,
+            "d4": {
+              "_count": 3,
+              "_wins": 2,
+              "Bg4": {
+                "_count": 3,
+                "_wins": 2
+              }
+            }
+          }
+        },
+        "e3": {
+          "_count": 2,
+          "_wins": 2,
+          "d5": {
+            "_count": 2,
+            "_wins": 2
+          }
+        },
+        "g3": {
+          "_count": 3,
+          "_wins": 1,
+          "d5": {
+            "_count": 3,
+            "_wins": 1,
+            "Bg2": {
+              "_count": 3,
+              "_wins": 1,
+              "e6": {
+                "_count": 3,
+                "_wins": 1,
+                "O-O": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          }
+        },
+        "c3": {
+          "_count": 2,
+          "_wins": 0,
+          "d5": {
+            "_count": 2,
+            "_wins": 0
+          }
+        }
+      }
+    },
+    "c3": {
+      "_count": 5,
+      "_wins": 3,
+      "c6": {
+        "_count": 3,
+        "_wins": 1,
+        "e3": {
+          "_count": 2,
+          "_wins": 0,
+          "d5": {
+            "_count": 2,
+            "_wins": 0
+          }
+        }
+      }
+    },
+    "d4": {
+      "_count": 290,
+      "_wins": 137,
+      "c6": {
+        "_count": 239,
+        "_wins": 118,
+        "c4": {
+          "_count": 47,
+          "_wins": 24,
+          "d5": {
+            "_count": 47,
+            "_wins": 24,
+            "c5": {
+              "_count": 5,
+              "_wins": 3,
+              "b6": {
+                "_count": 4,
+                "_wins": 2,
+                "b4": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "a5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "Nc3": {
+              "_count": 25,
+              "_wins": 12,
+              "Nf6": {
+                "_count": 3,
+                "_wins": 2,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              },
+              "Bf5": {
+                "_count": 7,
+                "_wins": 2,
+                "e3": {
+                  "_count": 4,
+                  "_wins": 2,
+                  "e6": {
+                    "_count": 4,
+                    "_wins": 2,
+                    "cxd5": {
+                      "_count": 2,
+                      "_wins": 1
+                    },
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                },
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              },
+              "e6": {
+                "_count": 14,
+                "_wins": 8,
+                "cxd5": {
+                  "_count": 3,
+                  "_wins": 3,
+                  "cxd5": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                },
+                "Nf3": {
+                  "_count": 7,
+                  "_wins": 3,
+                  "Ne7": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Bg5": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "f6": {}
+                    }
+                  },
+                  "Nf6": {
+                    "_count": 2,
+                    "_wins": 1
+                  },
+                  "Bb4": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "e3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            },
+            "cxd5": {
+              "_count": 8,
+              "_wins": 4,
+              "cxd5": {
+                "_count": 7,
+                "_wins": 4,
+                "Nc3": {
+                  "_count": 7,
+                  "_wins": 4,
+                  "Bf5": {
+                    "_count": 4,
+                    "_wins": 2
+                  },
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  }
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 7,
+              "_wins": 4,
+              "Bf5": {
+                "_count": 3,
+                "_wins": 1,
+                "Nc3": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 0,
+                    "e3": {
+                      "_count": 2,
+                      "_wins": 0
+                    }
+                  }
+                }
+              },
+              "Bg4": {
+                "_count": 3,
+                "_wins": 2,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            },
+            "e3": {
+              "_count": 2,
+              "_wins": 1
+            }
+          }
+        },
+        "Bf4": {
+          "_count": 62,
+          "_wins": 36,
+          "d5": {
+            "_count": 61,
+            "_wins": 36,
+            "e3": {
+              "_count": 40,
+              "_wins": 27,
+              "Bf5": {
+                "_count": 14,
+                "_wins": 8,
+                "Nf3": {
+                  "_count": 10,
+                  "_wins": 4,
+                  "e6": {
+                    "_count": 7,
+                    "_wins": 3,
+                    "Nbd2": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "c5": {}
+                    },
+                    "Bd3": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "Bd6": {}
+                    }
+                  },
+                  "c5": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "c3": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Nc6": {}
+                    }
+                  }
+                },
+                "Bd3": {
+                  "_count": 3,
+                  "_wins": 3,
+                  "Bxd3": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "Qxd3": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "e6": {}
+                    }
+                  }
+                }
+              },
+              "e6": {
+                "_count": 13,
+                "_wins": 9,
+                "Bd3": {
+                  "_count": 4,
+                  "_wins": 4,
+                  "c5": {
+                    "_count": 4,
+                    "_wins": 4,
+                    "dxc5": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bxc5": {}
+                    }
+                  }
+                },
+                "Nf3": {
+                  "_count": 6,
+                  "_wins": 3,
+                  "c5": {
+                    "_count": 5,
+                    "_wins": 2,
+                    "c3": {
+                      "_count": 4,
+                      "_wins": 1,
+                      "Nc6": {}
+                    }
+                  }
+                },
+                "c3": {
+                  "_count": 3,
+                  "_wins": 2,
+                  "c5": {
+                    "_count": 3,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Nc6": {}
+                    }
+                  }
+                }
+              },
+              "c5": {
+                "_count": 10,
+                "_wins": 8,
+                "Nf3": {
+                  "_count": 3,
+                  "_wins": 3,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                },
+                "c3": {
+                  "_count": 3,
+                  "_wins": 2,
+                  "Nc6": {
+                    "_count": 3,
+                    "_wins": 2,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Bg4": {}
+                    }
+                  }
+                },
+                "Bd3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "cxd4": {
+                    "_count": 2,
+                    "_wins": 2,
+                    "exd4": {
+                      "_count": 2,
+                      "_wins": 2,
+                      "Nc6": {}
+                    }
+                  }
+                }
+              },
+              "Nf6": {
+                "_count": 2,
+                "_wins": 2
+              }
+            },
+            "Nc3": {
+              "_count": 4,
+              "_wins": 1
+            },
+            "Bxb8": {
+              "_count": 2,
+              "_wins": 1,
+              "Rxb8": {
+                "_count": 2,
+                "_wins": 1
+              }
+            },
+            "Nf3": {
+              "_count": 11,
+              "_wins": 6,
+              "Bg4": {
+                "_count": 2,
+                "_wins": 2,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              },
+              "c5": {
+                "_count": 2,
+                "_wins": 0,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 0,
+                    "Bb5": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "Bg4": {}
+                    }
+                  }
+                }
+              },
+              "e6": {
+                "_count": 2,
+                "_wins": 2,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              },
+              "Bf5": {
+                "_count": 2,
+                "_wins": 1
+              },
+              "Nf6": {
+                "_count": 2,
+                "_wins": 0,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "Bg4": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "e4": {
+          "_count": 35,
+          "_wins": 19,
+          "d5": {
+            "_count": 35,
+            "_wins": 19,
+            "e5": {
+              "_count": 19,
+              "_wins": 12,
+              "c5": {
+                "_count": 19,
+                "_wins": 12,
+                "Be3": {
+                  "_count": 2,
+                  "_wins": 2
+                },
+                "c3": {
+                  "_count": 12,
+                  "_wins": 9,
+                  "Nc6": {
+                    "_count": 11,
+                    "_wins": 8,
+                    "Nf3": {
+                      "_count": 4,
+                      "_wins": 4,
+                      "Bg4": {}
+                    },
+                    "f4": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "Bf5": {}
+                    }
+                  }
+                },
+                "dxc5": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              }
+            },
+            "exd5": {
+              "_count": 6,
+              "_wins": 1,
+              "cxd5": {
+                "_count": 6,
+                "_wins": 1,
+                "Nc3": {
+                  "_count": 4,
+                  "_wins": 0,
+                  "Bf5": {
+                    "_count": 2,
+                    "_wins": 0
+                  },
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              }
+            },
+            "Nc3": {
+              "_count": 7,
+              "_wins": 4,
+              "e6": {
+                "_count": 6,
+                "_wins": 4,
+                "exd5": {
+                  "_count": 2,
+                  "_wins": 2
+                }
+              }
+            }
+          }
+        },
+        "e3": {
+          "_count": 31,
+          "_wins": 10,
+          "d5": {
+            "_count": 31,
+            "_wins": 10,
+            "c3": {
+              "_count": 3,
+              "_wins": 0,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 0
+              }
+            },
+            "Nf3": {
+              "_count": 13,
+              "_wins": 4,
+              "Bg4": {
+                "_count": 10,
+                "_wins": 2,
+                "Be2": {
+                  "_count": 4,
+                  "_wins": 0,
+                  "Bxf3": {
+                    "_count": 3,
+                    "_wins": 0,
+                    "Bxf3": {
+                      "_count": 3,
+                      "_wins": 0,
+                      "e6": {}
+                    }
+                  }
+                },
+                "Nbd2": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                },
+                "Bd3": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              },
+              "c5": {
+                "_count": 2,
+                "_wins": 2
+              }
+            },
+            "c4": {
+              "_count": 4,
+              "_wins": 1,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 0
+              },
+              "e6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            },
+            "Bd3": {
+              "_count": 5,
+              "_wins": 1,
+              "e6": {
+                "_count": 2,
+                "_wins": 0,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 0,
+                    "c3": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "Nc6": {}
+                    }
+                  }
+                }
+              }
+            },
+            "f4": {
+              "_count": 2,
+              "_wins": 1,
+              "e6": {
+                "_count": 2,
+                "_wins": 1,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Nc3": {
+          "_count": 17,
+          "_wins": 7,
+          "d5": {
+            "_count": 17,
+            "_wins": 7,
+            "e4": {
+              "_count": 2,
+              "_wins": 1,
+              "e6": {
+                "_count": 2,
+                "_wins": 1,
+                "e5": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Nf3": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                }
+              }
+            },
+            "Bf4": {
+              "_count": 10,
+              "_wins": 4,
+              "Bf5": {
+                "_count": 5,
+                "_wins": 2,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              },
+              "c5": {
+                "_count": 2,
+                "_wins": 1
+              },
+              "e6": {
+                "_count": 3,
+                "_wins": 1,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            },
+            "Nf3": {
+              "_count": 3,
+              "_wins": 1,
+              "e6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 35,
+          "_wins": 16,
+          "d5": {
+            "_count": 34,
+            "_wins": 16,
+            "Bf4": {
+              "_count": 5,
+              "_wins": 2,
+              "Bg4": {
+                "_count": 2,
+                "_wins": 1,
+                "e3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            },
+            "Nc3": {
+              "_count": 5,
+              "_wins": 2,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 1
+              }
+            },
+            "e3": {
+              "_count": 12,
+              "_wins": 7,
+              "Bg4": {
+                "_count": 8,
+                "_wins": 5,
+                "Be2": {
+                  "_count": 3,
+                  "_wins": 1,
+                  "Bxf3": {
+                    "_count": 3,
+                    "_wins": 1,
+                    "Bxf3": {
+                      "_count": 3,
+                      "_wins": 1,
+                      "e6": {}
+                    }
+                  }
+                },
+                "Bd3": {
+                  "_count": 5,
+                  "_wins": 4,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 2
+                  },
+                  "Bxf3": {
+                    "_count": 3,
+                    "_wins": 2,
+                    "Qxf3": {
+                      "_count": 3,
+                      "_wins": 2,
+                      "e6": {}
+                    }
+                  }
+                }
+              },
+              "e6": {
+                "_count": 3,
+                "_wins": 2,
+                "Bd3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            },
+            "g3": {
+              "_count": 6,
+              "_wins": 2,
+              "e6": {
+                "_count": 4,
+                "_wins": 1,
+                "Bg2": {
+                  "_count": 3,
+                  "_wins": 0,
+                  "c5": {
+                    "_count": 3,
+                    "_wins": 0
+                  }
+                }
+              }
+            },
+            "c4": {
+              "_count": 2,
+              "_wins": 1,
+              "e6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          }
+        },
+        "Bg5": {
+          "_count": 3,
+          "_wins": 1,
+          "d5": {
+            "_count": 3,
+            "_wins": 1,
+            "e3": {
+              "_count": 2,
+              "_wins": 1
+            }
+          }
+        },
+        "c3": {
+          "_count": 5,
+          "_wins": 2,
+          "d5": {
+            "_count": 5,
+            "_wins": 2,
+            "e3": {
+              "_count": 2,
+              "_wins": 0
+            }
+          }
+        }
+      },
+      "d5": {
+        "_count": 42,
+        "_wins": 16,
+        "Bf4": {
+          "_count": 12,
+          "_wins": 4,
+          "Bf5": {
+            "_count": 5,
+            "_wins": 1,
+            "Nf3": {
+              "_count": 2,
+              "_wins": 0,
+              "Nc6": {
+                "_count": 2,
+                "_wins": 0
+              }
+            }
+          },
+          "Nc6": {
+            "_count": 6,
+            "_wins": 3,
+            "e3": {
+              "_count": 5,
+              "_wins": 2,
+              "Bf5": {
+                "_count": 3,
+                "_wins": 1,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 1
+                  }
+                }
+              }
+            }
+          }
+        },
+        "c4": {
+          "_count": 14,
+          "_wins": 7,
+          "Nf6": {
+            "_count": 4,
+            "_wins": 2,
+            "Nc3": {
+              "_count": 4,
+              "_wins": 2,
+              "e6": {
+                "_count": 4,
+                "_wins": 2,
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 1
+                }
+              }
+            }
+          },
+          "c6": {
+            "_count": 3,
+            "_wins": 1
+          },
+          "e6": {
+            "_count": 5,
+            "_wins": 3,
+            "cxd5": {
+              "_count": 2,
+              "_wins": 1,
+              "exd5": {
+                "_count": 2,
+                "_wins": 1
+              }
+            },
+            "Nc3": {
+              "_count": 2,
+              "_wins": 1,
+              "Nc6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          }
+        },
+        "e3": {
+          "_count": 6,
+          "_wins": 2,
+          "Bf5": {
+            "_count": 4,
+            "_wins": 1
+          }
+        },
+        "Nc3": {
+          "_count": 4,
+          "_wins": 1,
+          "Bf5": {
+            "_count": 2,
+            "_wins": 1,
+            "Bf4": {
+              "_count": 2,
+              "_wins": 1
+            }
+          }
+        },
+        "Nf3": {
+          "_count": 4,
+          "_wins": 1,
+          "Nc6": {
+            "_count": 2,
+            "_wins": 0
+          }
+        }
+      },
+      "e5": {
+        "_count": 2,
+        "_wins": 0
+      },
+      "f5": {
+        "_count": 2,
+        "_wins": 1
+      },
+      "d6": {
+        "_count": 2,
+        "_wins": 1
+      }
+    },
+    "d3": {
+      "_count": 12,
+      "_wins": 6,
+      "c6": {
+        "_count": 9,
+        "_wins": 3,
+        "e3": {
+          "_count": 2,
+          "_wins": 0,
+          "d5": {
+            "_count": 2,
+            "_wins": 0
+          }
+        },
+        "e4": {
+          "_count": 2,
+          "_wins": 2,
+          "d5": {
+            "_count": 2,
+            "_wins": 2,
+            "Nc3": {
+              "_count": 2,
+              "_wins": 2,
+              "e6": {
+                "_count": 2,
+                "_wins": 2,
+                "exd5": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "cxd5": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "d5": {
+        "_count": 2,
+        "_wins": 2,
+        "e3": {
+          "_count": 2,
+          "_wins": 2,
+          "e5": {
+            "_count": 2,
+            "_wins": 2
+          }
+        }
+      }
+    },
+    "e3": {
+      "_count": 46,
+      "_wins": 22,
+      "c6": {
+        "_count": 44,
+        "_wins": 22,
+        "g3": {
+          "_count": 5,
+          "_wins": 3,
+          "d5": {
+            "_count": 5,
+            "_wins": 3,
+            "Bg2": {
+              "_count": 5,
+              "_wins": 3,
+              "e5": {
+                "_count": 2,
+                "_wins": 0,
+                "Ne2": {
+                  "_count": 2,
+                  "_wins": 0,
+                  "e4": {
+                    "_count": 2,
+                    "_wins": 0
+                  }
+                }
+              },
+              "e6": {
+                "_count": 2,
+                "_wins": 2
+              }
+            }
+          }
+        },
+        "b3": {
+          "_count": 7,
+          "_wins": 5,
+          "d5": {
+            "_count": 7,
+            "_wins": 5,
+            "Bb2": {
+              "_count": 6,
+              "_wins": 5,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 2
+              },
+              "e6": {
+                "_count": 4,
+                "_wins": 3
+              }
+            }
+          }
+        },
+        "Qf3": {
+          "_count": 3,
+          "_wins": 1,
+          "d5": {
+            "_count": 3,
+            "_wins": 1,
+            "c4": {
+              "_count": 3,
+              "_wins": 1,
+              "Nf6": {
+                "_count": 2,
+                "_wins": 0,
+                "cxd5": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            }
+          }
+        },
+        "d3": {
+          "_count": 4,
+          "_wins": 1,
+          "d5": {
+            "_count": 4,
+            "_wins": 1
+          }
+        },
+        "d4": {
+          "_count": 4,
+          "_wins": 0,
+          "d5": {
+            "_count": 4,
+            "_wins": 0,
+            "c4": {
+              "_count": 3,
+              "_wins": 0
+            }
+          }
+        },
+        "c3": {
+          "_count": 9,
+          "_wins": 5,
+          "d5": {
+            "_count": 9,
+            "_wins": 5,
+            "d4": {
+              "_count": 8,
+              "_wins": 5,
+              "c5": {
+                "_count": 5,
+                "_wins": 2,
+                "dxc5": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "b4": {
+                      "_count": 2,
+                      "_wins": 1
+                    }
+                  }
+                },
+                "Nf3": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Nc6": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "dxc5": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "Bg4": {}
+                    }
+                  }
+                }
+              },
+              "e6": {
+                "_count": 2,
+                "_wins": 2,
+                "Nd2": {
+                  "_count": 2,
+                  "_wins": 2,
+                  "c5": {
+                    "_count": 2,
+                    "_wins": 2
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Ne2": {
+          "_count": 2,
+          "_wins": 1,
+          "d5": {
+            "_count": 2,
+            "_wins": 1
+          }
+        },
+        "c4": {
+          "_count": 2,
+          "_wins": 1,
+          "d5": {
+            "_count": 2,
+            "_wins": 1
+          }
+        },
+        "Nc3": {
+          "_count": 2,
+          "_wins": 1,
+          "d5": {
+            "_count": 2,
+            "_wins": 1
+          }
+        }
+      }
+    },
+    "a4": {
+      "_count": 3,
+      "_wins": 2,
+      "c6": {
+        "_count": 3,
+        "_wins": 2
+      }
+    },
+    "b3": {
+      "_count": 21,
+      "_wins": 8,
+      "c6": {
+        "_count": 18,
+        "_wins": 7,
+        "Bb2": {
+          "_count": 16,
+          "_wins": 6,
+          "d5": {
+            "_count": 16,
+            "_wins": 6,
+            "g3": {
+              "_count": 4,
+              "_wins": 1,
+              "Bf5": {
+                "_count": 3,
+                "_wins": 0,
+                "Bg2": {
+                  "_count": 3,
+                  "_wins": 0,
+                  "e6": {
+                    "_count": 2,
+                    "_wins": 0,
+                    "d3": {
+                      "_count": 2,
+                      "_wins": 0,
+                      "Bd6": {}
+                    }
+                  }
+                }
+              }
+            },
+            "e3": {
+              "_count": 4,
+              "_wins": 2,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 0
+              }
+            },
+            "d3": {
+              "_count": 2,
+              "_wins": 2,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 2
+              }
+            },
+            "c3": {
+              "_count": 2,
+              "_wins": 1
+            },
+            "Nf3": {
+              "_count": 2,
+              "_wins": 0
+            }
+          }
+        }
+      },
+      "d5": {
+        "_count": 2,
+        "_wins": 1,
+        "Bb2": {
+          "_count": 2,
+          "_wins": 1,
+          "d4": {
+            "_count": 2,
+            "_wins": 1
+          }
+        }
+      }
+    },
+    "c4": {
+      "_count": 12,
+      "_wins": 4,
+      "c6": {
+        "_count": 11,
+        "_wins": 3,
+        "Nc3": {
+          "_count": 5,
+          "_wins": 1,
+          "d5": {
+            "_count": 5,
+            "_wins": 1,
+            "cxd5": {
+              "_count": 4,
+              "_wins": 0,
+              "cxd5": {
+                "_count": 4,
+                "_wins": 0,
+                "d4": {
+                  "_count": 2,
+                  "_wins": 0
+                }
+              }
+            }
+          }
+        },
+        "e3": {
+          "_count": 2,
+          "_wins": 0,
+          "d5": {
+            "_count": 2,
+            "_wins": 0
+          }
+        }
+      }
+    },
+    "a3": {
+      "_count": 4,
+      "_wins": 3,
+      "c6": {
+        "_count": 4,
+        "_wins": 3,
+        "b4": {
+          "_count": 3,
+          "_wins": 2,
+          "d5": {
+            "_count": 3,
+            "_wins": 2,
+            "Bb2": {
+              "_count": 3,
+              "_wins": 2,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "f4": {
+      "_count": 11,
+      "_wins": 6,
+      "c6": {
+        "_count": 10,
+        "_wins": 6,
+        "Nf3": {
+          "_count": 6,
+          "_wins": 4,
+          "d5": {
+            "_count": 6,
+            "_wins": 4,
+            "e3": {
+              "_count": 3,
+              "_wins": 2,
+              "Bg4": {
+                "_count": 2,
+                "_wins": 1,
+                "Be2": {
+                  "_count": 2,
+                  "_wins": 1,
+                  "Bxf3": {
+                    "_count": 2,
+                    "_wins": 1,
+                    "Bxf3": {
+                      "_count": 2,
+                      "_wins": 1,
+                      "e6": {}
+                    }
+                  }
+                }
+              }
+            },
+            "d4": {
+              "_count": 3,
+              "_wins": 2
+            }
+          }
+        },
+        "e4": {
+          "_count": 3,
+          "_wins": 1,
+          "d5": {
+            "_count": 3,
+            "_wins": 1,
+            "e5": {
+              "_count": 2,
+              "_wins": 0,
+              "Bf5": {
+                "_count": 2,
+                "_wins": 0
+              }
+            }
+          }
+        }
+      }
+    },
+    "h3": {
+      "_count": 2,
+      "_wins": 0,
+      "c6": {
+        "_count": 2,
+        "_wins": 0
+      }
+    },
+    "f3": {
+      "_count": 3,
+      "_wins": 1,
+      "d5": {
+        "_count": 2,
+        "_wins": 1
+      }
+    },
+    "b4": {
+      "_count": 5,
+      "_wins": 3,
+      "c6": {
+        "_count": 4,
+        "_wins": 2,
+        "Bb2": {
+          "_count": 4,
+          "_wins": 2,
+          "d5": {
+            "_count": 4,
+            "_wins": 2,
+            "e3": {
+              "_count": 4,
+              "_wins": 2,
+              "e6": {
+                "_count": 2,
+                "_wins": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "Nc3": {
+      "_count": 4,
+      "_wins": 2,
+      "c6": {
+        "_count": 4,
+        "_wins": 2,
+        "e4": {
+          "_count": 2,
+          "_wins": 1,
+          "d5": {
+            "_count": 2,
+            "_wins": 1
+          }
+        }
+      }
+    },
+    "g4": {
+      "_count": 4,
+      "_wins": 2,
+      "c6": {
+        "_count": 4,
+        "_wins": 2,
+        "Bg2": {
+          "_count": 2,
+          "_wins": 1,
+          "d5": {
+            "_count": 2,
+            "_wins": 1
+          }
+        }
+      }
+    }
+  }
+}
